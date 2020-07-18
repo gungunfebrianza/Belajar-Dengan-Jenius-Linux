@@ -2,7 +2,7 @@
 
 ## Penulis : Gun Gun Febrianza
 
-## *Introduction*
+## Linux
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
 
@@ -15,7 +15,9 @@ Untuk menyempurnakan **linux** agar menjadi sebuah sistem operasi yang dapat dig
 | Perusahaan (**Enterprise**)               | CentOS                 |
 | Komputasi Awan (**Cloud Computing**)      | Amazon Linux (AWS AMI) |
 
+Sistem operasi **linux** di atas bisa didapatkan dengan gratis. 
 
+Di dalamnya terdapat ribuan ***program*** dan **software** yang bisa digunakan secara gratis. Sebagian besar program tersebut bersifat **open source**, kita dapat melihat kode sumber dari program tersebut, mempelajarinya dan memodifikasinya sesuai dengan kebutuhan kita. 
 
 ---------------------
 
