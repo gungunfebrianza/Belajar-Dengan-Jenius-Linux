@@ -48,5 +48,13 @@ Kita sudah mengetahui bahwa perintah **ls** tanpa opsi (**options**) akan member
 Maka anda telah membuat perintah (**command**) dengan opsi perintah (**command-line option**) untuk pertama kalinya.
 Jika kita perhatikan **a** **switch** artinya adalah **all**, dan memberikan karakteristik baru pada perintah **ls** untuk menampilkan seluruh **file** yang ada, termasuk **file** yang tersembunyi. 
 
+![](assets/all-switch.png)
+
+Sekarang kita ketik **ls -alth** kemudian tekan enter :
+
+![](assets/multi-swtich command options.png)
+
+
+
 ---------------------
 
