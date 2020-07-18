@@ -52,7 +52,7 @@ Jika kita perhatikan **a** **switch** artinya adalah **all**, dan memberikan kar
 
 Sekarang kita ketik **ls -alth** kemudian tekan enter :
 
-![](assets/multi-swtich command options.png)
+![](assets/multi-swtich-command-options.png)
 
 kita dapat memberikan **options** secara berurutan untuk membangun sebuah kombinasi perintah, pada perintah :
 
