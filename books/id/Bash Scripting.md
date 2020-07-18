@@ -83,5 +83,34 @@ $ help echo
 
 
 
+### Non Built-in Shell Command
+
+uptime adalah salah satu non built-in shell command. 
+
+```bash
+$ uptime
+```
+
+Untuk mengetahui informasi tentang uptime eksekusi perintah di bawah ini :
+
+```bash
+$ type -a uptime
+uptime is /usr/bin/uptime
+```
+
+#### Manual
+
+Untuk mendapatkan dokumentasi
+
+```bash
+$ man uptime
+```
+
+untuk keluar dari dokumentasi tekan tombol q.
+
+
+
+
+
 ---------------------
 
