@@ -2,22 +2,31 @@
 
 ## Penulis : Gun Gun Febrianza
 
-## Linux
+## Linux Command Line
 
-**Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
+Ketika kita membahas *Linux command line*, maka artinya kita sedang membahas **shell**.
 
-Untuk menyempurnakan **linux** agar menjadi sebuah sistem operasi yang dapat digunakan, kita memerlukan sekumpulan program (***bundling program***) yang kita kenal sebagai **distribution**\.
+Apa sih **Shell** itu? 
 
-| Purpose                                   | Distribution           |
-| ----------------------------------------- | ---------------------- |
-| Umum                                      | Ubuntu                 |
-| Keamanan Komputer (**Computer Security**) | Kali Linux             |
-| Perusahaan (**Enterprise**)               | CentOS                 |
-| Komputasi Awan (**Cloud Computing**)      | Amazon Linux (AWS AMI) |
+**Shell** adalah sebuah program yang berjalan pada sistem operasi yang dapat menerjemahkan perintah dan memproses perintah yang diberikan oleh user. 
 
-Sistem operasi **linux** di atas bisa didapatkan dengan gratis. 
+Terdapat berbagai **shell**, namun **Bourne Again Shell (Bash)**, sudah disediakan secara *default*. Ketika kita memulai program *shell* maka anda akan melihat simbol dollar ($), yang menandakan  *shell prompt* sudah siap untuk digunakan.
 
-Di dalamnya terdapat ribuan ***program*** dan **software** yang bisa digunakan secara gratis. Sebagian besar program tersebut bersifat **open source**, kita dapat melihat kode sumber dari program tersebut, mempelajarinya dan memodifikasinya sesuai dengan kebutuhan kita. 
+Di bawah ini adalah struktur command di dalam shell :
+
+**[COMMANDNAME]** OPTIONS ARGUMENTS.
+
+Ketik **whoami** kemudian tekan Enter. Perintah ini akan mencetak nama pengguna sistem operasi **linux** yang sedang menggunakan **shell**.
+
+| Note :                                         |
+| ---------------------------------------------- |
+| **Linux command** bersifat **case sensitive**. |
+
+Secara konvensi penulisan perintah ditulis menggunakan huruf kecil (**lowercase**). 
+
+Selanjutnya kita akan mencoba perintah dasar yang paling sering digunakan di dalam **shell**. 
+
+Ketik **ls** kemudian tekan enter. Perintah ini akan menampilkan daftar **file** (**lists files**) di dalam suatu **directory**.
 
 ---------------------
 
