@@ -2,7 +2,7 @@
 
 ## Penulis : Gun Gun Febrianza
 
-## Script & Scripting
+## Bash Scripting
 
 ### Shebang
 
@@ -46,6 +46,16 @@ $ cat hello.sh
 ```bash
 $ chmod 755 hello.sh
 ```
+
+
+
+### Execute Script
+
+```bash
+$ ./hello.sh
+```
+
+
 
 
 
