@@ -12,15 +12,5 @@
 
 ### Chapter 1 - Linux
 
-[Linux](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/Linux.md)
+#### Subchapter 1 – Linux Command Line
 
-- [Linux Command Line](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/Linux%20Command%20Line.md)
-  - Command Name
-  - Command Options
-    - Reserved
-
-Shell
-
-- Reserved
-  - Reserved
-    - Reserved

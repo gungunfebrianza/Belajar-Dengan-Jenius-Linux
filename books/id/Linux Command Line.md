@@ -8,7 +8,7 @@ Ketika kita membahas **Linux command line**, maka artinya kita sedang membahas *
 
 Apa sih **Shell** itu? 
 
-**Shell** adalah sebuah program yang berjalan pada sistem operasi yang dapat menerjemahkan perintah dan memproses perintah yang diberikan oleh user. 
+**Shell** adalah sebuah program interpreter pada sistem operasi yang dapat menterjemahkan perintah dan memproses perintah yang diberikan oleh user. 
 
 Terdapat berbagai **shell**, namun **Bourne Again Shell (Bash)**, sudah disediakan secara *default*. Ketika kita memulai program *shell* maka anda akan melihat simbol dollar ($), yang menandakan  **shell prompt** sudah siap untuk digunakan.
 
@@ -48,11 +48,11 @@ Kita sudah mengetahui bahwa perintah **ls** tanpa opsi (**options**) akan member
 Maka anda telah membuat perintah (**command**) dengan opsi perintah (**command-line option**) untuk pertama kalinya.
 Jika kita perhatikan **a** **switch** artinya adalah **all**, dan memberikan karakteristik baru pada perintah **ls** untuk menampilkan seluruh **file** yang ada, termasuk **file** yang tersembunyi. 
 
-![](assets/all-switch.png)
+![](../assets/all-switch.png)
 
 Sekarang kita ketik **ls -alth** kemudian tekan enter :
 
-![](assets/multi-swtich-command-options.png)
+![](../assets/multi-swtich-command-options.png)
 
 kita dapat memberikan **options** secara berurutan untuk membangun sebuah kombinasi perintah, pada perintah :
 
