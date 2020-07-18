@@ -14,7 +14,10 @@
 
 #### Subchapter 1 – Linux Command Line
 
-1. Command Name
-2. Command Option
-3. Command Argument
+1. Shell
+2. Bash
+3. Scripting
+4. Command Name
+5. Command Option
+6. Command Argument
 

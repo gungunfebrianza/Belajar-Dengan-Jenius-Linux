@@ -12,11 +12,15 @@ Apa sih **Shell** itu?
 
 **Shell** adalah sebuah **user interface** yang dapat kita gunakan secara interaktif untuk mengeksekusi perintah pada sistem **linux**. Pada **GNU/Linux system** secara **default** perintah pada **shell** akan diterjemahkan oleh **Bash**.
 
-####  Bash
+###  Bash
 
 **Bash** adalah program **interpreter** pada sistem **linux** yang dapat menterjemahkan dan memproses perintah (**command**) yang diberikan oleh user. 
 
 Terdapat berbagai **shell**, seperti **csh**, **tcsh** namun pada kesempatan kali ini penulis menggunakan **Bourne Again Shell (Bash)**. Ketika kita memulai program **shell** maka anda akan melihat simbol **dollar** ($), yang menandakan  **shell prompt** sudah siap untuk digunakan.
+
+### Scripting
+
+**Script** terdiri dari sebuah perintah tunggal (**Single Command**) atau serangkaian perintah (**Sequence of Commands**) yang disimpan menjadi sebuah **file**. Sebuah **interpreter** akan menterjemahkan setiap perintah di dalam **script**. Segala sesuatu yang dapat kita lakukan di dalam **command-line** juga dapat dilakukan di dalam **script**, dengan cara menulis perintah-perintah yang ingin dieksekusi ke dalam sebuah **script file**.  Hal ini membuat **script** sangat cocok untuk melakukan **automation**, mengeksekusi sekumpulan perintah secara otomatis. Ketika hal ini dilakukan maka kita sedang melakukan **scripting**.
 
 ### Command Name
 
@@ -24,7 +28,9 @@ Di bawah ini adalah struktur **command** di dalam **shell** :
 
 > **[COMMANDNAME]** OPTIONS ARGUMENTS.
 
-Eksekusi perintah (**command**) di bawah ini :
+#### whoami
+
+Kita akan mempelajari beberapa perintah dasar yang menarik untuk dicoba. Eksekusi perintah (**command**) di bawah ini :
 
 ```bash
 whoami
@@ -36,9 +42,41 @@ Perintah di atas akan mencetak nama pengguna sistem **linux** yang sedang menggu
 | ---------------------------------------------- |
 | **Linux command** bersifat **case sensitive**. |
 
-Secara konvensi penulisan perintah ditulis menggunakan huruf kecil (**lowercase**). 
+#### date
 
-Selanjutnya kita akan mencoba perintah dasar yang paling sering digunakan di dalam **shell**. 
+Eksekusi perintah (**command**) di bawah ini :
+
+```bash
+date
+```
+
+Perintah di atas akan mencetak tanggal pada sistem **linux**. 
+
+#### cal
+
+Eksekusi perintah (**command**) di bawah ini :
+
+```bash
+cal
+```
+
+Perintah di atas akan mencetak kalender pada sistem **linux**. 
+
+#### pwd
+
+Eksekusi perintah (**command**) di bawah ini :
+
+```bash
+pwd
+```
+
+Perintah di atas akan mencetak **present working directory** pada sistem **linux**. 
+
+| Note :                                                       |
+| ------------------------------------------------------------ |
+| Secara konvensi penulisan perintah ditulis menggunakan huruf kecil (**lowercase**). |
+
+#### ls
 
 Eksekusi perintah (**command**) di bawah ini :
 
