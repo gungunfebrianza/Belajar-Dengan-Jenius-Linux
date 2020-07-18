@@ -33,7 +33,7 @@ Di bawah ini adalah struktur **command** di dalam **shell** :
 Kita akan mempelajari beberapa perintah dasar yang menarik untuk dicoba. Eksekusi perintah (**command**) di bawah ini :
 
 ```bash
-whoami
+$ whoami
 ```
 
 Perintah di atas akan mencetak nama pengguna sistem **linux** yang sedang menggunakan **shell**.
@@ -47,7 +47,7 @@ Perintah di atas akan mencetak nama pengguna sistem **linux** yang sedang menggu
 Eksekusi perintah (**command**) di bawah ini :
 
 ```bash
-date
+$ date
 ```
 
 Perintah di atas akan mencetak tanggal pada sistem **linux**. 
@@ -57,7 +57,7 @@ Perintah di atas akan mencetak tanggal pada sistem **linux**.
 Eksekusi perintah (**command**) di bawah ini :
 
 ```bash
-cal
+$ cal
 ```
 
 Perintah di atas akan mencetak kalender pada sistem **linux**. 
@@ -67,7 +67,7 @@ Perintah di atas akan mencetak kalender pada sistem **linux**.
 Eksekusi perintah (**command**) di bawah ini :
 
 ```bash
-pwd
+$ pwd
 ```
 
 Perintah di atas akan mencetak **present working directory** pada sistem **linux**. 
@@ -81,7 +81,7 @@ Perintah di atas akan mencetak **present working directory** pada sistem **linux
 Eksekusi perintah (**command**) di bawah ini :
 
 ```bash
-ls
+$ ls
 ```
 
 Perintah di atas akan menampilkan daftar **file** (**list files**) di dalam suatu **directory**.
@@ -105,7 +105,7 @@ Sebagai contoh di bawah ini terdapat **single-character command-line options** :
 Kita sudah mengetahui bahwa perintah **ls** tanpa opsi (**options**) akan memberikan kita informasi berupa daftar **file** yang ada di dalam suatu **directory**. Jika kita menggunakan perintah tersebut dengan **Switches** atau **flags** **-a** seperti :
 
 ```bash
-ls -a
+$ ls -a
 ```
 
 Maka anda telah membuat perintah (**command**) dengan opsi perintah (**command-line option**) untuk pertama kalinya.
@@ -120,7 +120,7 @@ Sekarang kita ketik **ls -alth** kemudian tekan enter :
 kita dapat memberikan **options** secara berurutan untuk membangun sebuah kombinasi perintah, pada perintah :
 
 ```bash
-ls -alth
+$ ls -alth
 ```
 
 1. **-l** **switch** adalah singkatan dari kata **list**, kita akan menampilkan seluruh **file** dengan informasi yang lebih detail.
