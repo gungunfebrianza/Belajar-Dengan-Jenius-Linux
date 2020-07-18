@@ -4,21 +4,33 @@
 
 ## Linux Command Line
 
-Ketika kita membahas **Linux command line**, maka artinya kita sedang membahas **shell**.
+Ketika kita membahas **Linux Command-line**, artinya kita sedang membahas bagaimana cara untuk berinteraksi dengan linux melalui perintah-perintah yang kita berikan melalui **shell**.
+
+### Shell
 
 Apa sih **Shell** itu? 
 
-**Shell** adalah sebuah program interpreter pada sistem operasi yang dapat menterjemahkan perintah dan memproses perintah yang diberikan oleh user. 
+**Shell** adalah sebuah **user interface** yang dapat kita gunakan secara interaktif untuk mengeksekusi perintah pada sistem **linux**. Pada **GNU/Linux system** secara **default** perintah pada **shell** akan diterjemahkan oleh **Bash**.
 
-Terdapat berbagai **shell**, namun **Bourne Again Shell (Bash)**, sudah disediakan secara *default*. Ketika kita memulai program *shell* maka anda akan melihat simbol dollar ($), yang menandakan  **shell prompt** sudah siap untuk digunakan.
+####  Bash
+
+**Bash** adalah program **interpreter** pada sistem **linux** yang dapat menterjemahkan dan memproses perintah (**command**) yang diberikan oleh user. 
+
+Terdapat berbagai **shell**, seperti **csh**, **tcsh** namun pada kesempatan kali ini penulis menggunakan **Bourne Again Shell (Bash)**. Ketika kita memulai program **shell** maka anda akan melihat simbol **dollar** ($), yang menandakan  **shell prompt** sudah siap untuk digunakan.
 
 ### Command Name
 
 Di bawah ini adalah struktur **command** di dalam **shell** :
 
-**[COMMANDNAME]** OPTIONS ARGUMENTS.
+> **[COMMANDNAME]** OPTIONS ARGUMENTS.
 
-Ketik **whoami** kemudian tekan Enter. Perintah ini akan mencetak nama pengguna sistem operasi **linux** yang sedang menggunakan **shell**.
+Eksekusi perintah (**command**) di bawah ini :
+
+```bash
+whoami
+```
+
+Perintah di atas akan mencetak nama pengguna sistem **linux** yang sedang menggunakan **shell**.
 
 | Note :                                         |
 | ---------------------------------------------- |
@@ -28,15 +40,24 @@ Secara konvensi penulisan perintah ditulis menggunakan huruf kecil (**lowercase*
 
 Selanjutnya kita akan mencoba perintah dasar yang paling sering digunakan di dalam **shell**. 
 
-Ketik **ls** kemudian tekan enter. Perintah ini akan menampilkan daftar **file** (**lists files**) di dalam suatu **directory**.
+Eksekusi perintah (**command**) di bawah ini :
 
-### Command Options
+```bash
+ls
+```
 
-Selain perintah juga terdapat opsi perintah atau biasa disebut **command-line options**. Tujuanya digunakan agar perintah yang diberikan memiliki karakteristik tertentu. Untuk memberikan karakteristik perintah kita akan mennggunakan **switches** atau **flags**. 
+Perintah di atas akan menampilkan daftar **file** (**list files**) di dalam suatu **directory**.
 
-COMMANDNAME **[OPTIONS]** ARGUMENTS.
+### Command Option
 
-**Switches** atau **flags** dimulai dengan strip (**single dash**), atau kita juga bisa menggunakan opsi perintah menggunakan nama kepanjanganya dengan dua strip (**two dash symbols**). Penggunaan **single dash** biasanya menggunakan 1 karakter tunggal sebagai singkatan (**abbreviations**) dari nama kepanjanganya. 
+Selain nama perintah (**Command Name**) juga terdapat opsi perintah atau biasa disebut **command-line options**. 
+
+Tujuanya digunakan agar perintah yang diberikan memiliki karakteristik tertentu. Untuk memberikan karakteristik perintah kita harus menggunakan sebuah **switches** atau **flags**. 
+
+> COMMANDNAME **[OPTIONS]** ARGUMENTS.
+>
+
+**Switches** atau **flags** dimulai dengan strip (**single dash**), atau menggunakan nama kepanjanganya dengan dua strip (**two dash symbols**). Penggunaan **single dash** biasanya menggunakan 1 karakter tunggal sebagai singkatan (**abbreviations**) dari nama kepanjanganya. 
 
 Sebagai contoh di bawah ini terdapat **single-character command-line options** : 
 
@@ -68,7 +89,7 @@ ls -alth
 2. **-t** **switch** adalah singkatan dari kata **time**, kita akan menampilkan **file** secara terurut berdasarkan tanggal modifikasi terbaru.
 3. **-h** **switch** adalah singkatan dari kata **human**, kita akan menampilkan ukuran **file** dalam wujud **Mega Byte** (**MB**)  bukan wujud (**Byte**) 
 
-### Command Arguments
+### Command Argument
 
 //Todo
 
