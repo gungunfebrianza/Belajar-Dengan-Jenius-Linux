@@ -54,6 +54,14 @@ Sekarang kita ketik **ls -alth** kemudian tekan enter :
 
 ![](assets/multi-swtich command options.png)
 
+kita dapat memberikan **options** secara berurutan untuk membangun sebuah kombinasi perintah, pada perintah :
+
+`ls -alth` 
+
+1. **-l** **switch** adalah singkatan dari kata **list**, kita akan menampilkan seluruh **file** dengan informasi yang lebih detail.
+2. **-t** **switch** adalah singkatan dari kata **time**, kita akan menampilkan **file** secara terurut berdasarkan tanggal modifikasi terbaru.
+3. **-h** **switch** adalah singkatan dari kata **human**, kita akan menampilkan ukuran **file** dalam wujud **Mega Byte** (**MB**)  bukan wujud (**Byte**) 
+
 
 
 ---------------------
