@@ -1,5 +1,11 @@
 # Belajar Dengan Jenius Linux
 
+## Karya : Gun Gun Febrianza
+
+### Drafts 2020
+
+
+
 ## Open Library Indonesia
 
 ### Table of Contents
