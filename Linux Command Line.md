@@ -12,6 +12,8 @@ Apa sih **Shell** itu?
 
 Terdapat berbagai **shell**, namun **Bourne Again Shell (Bash)**, sudah disediakan secara *default*. Ketika kita memulai program *shell* maka anda akan melihat simbol dollar ($), yang menandakan  *shell prompt* sudah siap untuk digunakan.
 
+### Command Name
+
 Di bawah ini adalah struktur **command** di dalam **shell** :
 
 **[COMMANDNAME]** OPTIONS ARGUMENTS.
@@ -28,6 +30,8 @@ Selanjutnya kita akan mencoba perintah dasar yang paling sering digunakan di dal
 
 Ketik **ls** kemudian tekan enter. Perintah ini akan menampilkan daftar **file** (**lists files**) di dalam suatu **directory**.
 
+### Command Options
+
 Selain perintah juga terdapat opsi perintah atau biasa disebut **command-line options**. Tujuanya digunakan agar perintah yang diberikan memiliki karakteristik tertentu. Untuk memberikan karakteristik perintah kita akan mennggunakan **switches** atau **flags**. 
 
 COMMANDNAME **[OPTIONS]** ARGUMENTS.
@@ -38,6 +42,11 @@ Sebagai contoh di bawah ini terdapat **single-character command-line options** :
 
 - **-d** artinya **directory**, 
 - **-x** for **exclude**, and so on.
+
+Kita sudah mengetahui bahwa perintah **ls** tanpa opsi (**options**) akan memberikan kita informasi berupa daftar **file** yang ada di dalam suatu **directory**. Jika kita menggunakan perintah tersebut dengan **Switches** atau **flags** **-a** seperti :
+`ls -a` 
+Maka anda telah membuat perintah (**command**) dengan opsi perintah (**command-line option**) untuk pertama kalinya.
+Jika kita perhatikan **a** **switch** artinya adalah **all**, dan memberikan karakteristik baru pada perintah **ls** untuk menampilkan seluruh **file** yang ada, termasuk **file** yang tersembunyi. 
 
 ---------------------
 
