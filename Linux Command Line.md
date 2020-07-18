@@ -4,13 +4,13 @@
 
 ## Linux Command Line
 
-Ketika kita membahas *Linux command line*, maka artinya kita sedang membahas **shell**.
+Ketika kita membahas **Linux command line**, maka artinya kita sedang membahas **shell**.
 
 Apa sih **Shell** itu? 
 
 **Shell** adalah sebuah program yang berjalan pada sistem operasi yang dapat menerjemahkan perintah dan memproses perintah yang diberikan oleh user. 
 
-Terdapat berbagai **shell**, namun **Bourne Again Shell (Bash)**, sudah disediakan secara *default*. Ketika kita memulai program *shell* maka anda akan melihat simbol dollar ($), yang menandakan  *shell prompt* sudah siap untuk digunakan.
+Terdapat berbagai **shell**, namun **Bourne Again Shell (Bash)**, sudah disediakan secara *default*. Ketika kita memulai program *shell* maka anda akan melihat simbol dollar ($), yang menandakan  **shell prompt** sudah siap untuk digunakan.
 
 ### Command Name
 
@@ -62,7 +62,9 @@ kita dapat memberikan **options** secara berurutan untuk membangun sebuah kombin
 2. **-t** **switch** adalah singkatan dari kata **time**, kita akan menampilkan **file** secara terurut berdasarkan tanggal modifikasi terbaru.
 3. **-h** **switch** adalah singkatan dari kata **human**, kita akan menampilkan ukuran **file** dalam wujud **Mega Byte** (**MB**)  bukan wujud (**Byte**) 
 
+### Command Arguments
 
+//Todo
 
 ---------------------
 
