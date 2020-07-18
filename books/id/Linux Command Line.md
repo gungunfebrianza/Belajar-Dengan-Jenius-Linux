@@ -44,7 +44,11 @@ Sebagai contoh di bawah ini terdapat **single-character command-line options** :
 - **-x** for **exclude**, and so on.
 
 Kita sudah mengetahui bahwa perintah **ls** tanpa opsi (**options**) akan memberikan kita informasi berupa daftar **file** yang ada di dalam suatu **directory**. Jika kita menggunakan perintah tersebut dengan **Switches** atau **flags** **-a** seperti :
-`ls -a` 
+
+```bash
+ls -a
+```
+
 Maka anda telah membuat perintah (**command**) dengan opsi perintah (**command-line option**) untuk pertama kalinya.
 Jika kita perhatikan **a** **switch** artinya adalah **all**, dan memberikan karakteristik baru pada perintah **ls** untuk menampilkan seluruh **file** yang ada, termasuk **file** yang tersembunyi. 
 
@@ -56,7 +60,9 @@ Sekarang kita ketik **ls -alth** kemudian tekan enter :
 
 kita dapat memberikan **options** secara berurutan untuk membangun sebuah kombinasi perintah, pada perintah :
 
-`ls -alth` 
+```bash
+ls -alth
+```
 
 1. **-l** **switch** adalah singkatan dari kata **list**, kita akan menampilkan seluruh **file** dengan informasi yang lebih detail.
 2. **-t** **switch** adalah singkatan dari kata **time**, kita akan menampilkan **file** secara terurut berdasarkan tanggal modifikasi terbaru.
