@@ -171,3 +171,22 @@ Perintah (command) ls digunakan untuk menampilkan daftar file yang terlihat saja
 ### Current Directory & Parrent Directory
 
 Simbol dot (.) artinya kita sedang berada dalam sebuah directory dan double dot (..) menandakan terdapat sebuah parent directory.
+
+<img src="../assets/LinuxFileSystem1.png" style="zoom:90%;" />
+
+### Switches
+
+**Switches** atau **flags** dimulai dengan strip (**single dash**\), atau kita juga bisa menggunakan opsi perintah menggunakan nama kepanjanganya dengan dua strip (**two dash symbols**).
+
+Penggunaan **single dash** biasanya menggunakan 1 karakter tunggal sebagai singkatan (**abbreviations**) dari nama kepanjanganya. Sebagai contoh di bawah ini terdapat **single**-**character command-line options** : 
+
+-  -a (**single dash**) atau **--all** (**two dash**)
+- -l (**single dash**) atau **--list** (**two dash**)
+- -t (single dash) atau **--time** (**two dash**)
+- -h (**single dash**) atau **--human** (**two dash**)
+
+Kita dapat menggunakan lebih dari satu **options** dalam satu perintah (**Command**) untuk mendapatkan karakteristik lainnya. 
+
+<img src="../assets/LinuxCommand3.png" style="zoom:90%;" />
+
+Sebagai contoh eksekusi perintah (**Command**) ini ls -alth kemudian tekan enter :
