@@ -53,7 +53,13 @@ Ada 2 arsitektur pengembangan kernel yang dominan yaitu kernel secara :
 
 Sebagian besar UNIX-kernel menggunakan arsitektur monolithic, begitu juga Linux Kernel yang dibangun Linus Torvald juga di desain secara **monolithic**. 
 
+### Monolithic Kernel
 
+Monolithic kernel artinya seluruh fungsionalitas sebuah sistem operasi secara virtual direpresentasikan dalam sebuah block of code tunggal dan berjalan sebagai process tunggal dengan address space tunggal.
+
+Monolithic kernel adalah konsep tradisional yang sudah lama digunakan, pada monolithic kernel seluruh subsystem seperti memory management, file management dan device driver tersimpan dalam satu codebase tunggal.
+
+Sebagai process tunggal monolithic kernel memiliki internal data structure dan routines yang dapat digunakan untuk memberikan berbagai fungsionalitas.
 
 
 
