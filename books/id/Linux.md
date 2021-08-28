@@ -129,6 +129,12 @@ BSD menjadi salah satu popular branch dalam UNIX family dan terdapat fenomena me
 
 Kompetisi tersebut memberikan kemajuan pada peradaban sistem operasi komputer, standarisasi sistem operasi yang baik dan benar jadi arus utama. Pada tahun 1988, POSIX Standard lahir.
 
+### POSIX Standard
+
+POSIX (Portable Operating System Interface) standard membantu pengembang software agar dapat memastikan program yang dibangun dapat di port ke sistem operasi UNIX lainnya. 
+
+POSIX membangun bahasa universal terkait bagaimana cara berinteraksi dengan API (Application Programming Interface).
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
