@@ -2,22 +2,26 @@
 
 ## Karya : Gun Gun Febrianza
 
-### Drafts 2020
-
-
+<img src="books/assets/cover.png" style="zoom:40%;" />
 
 ## Open Library Indonesia
 
 ### Table of Contents
 
-### [Chapter 1 - Linux](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md)
 
-#### [Subchapter 1 – Linux Command Line](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md)
 
-1. [Shell](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#shell)
-2. [Bash](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#bash)
-3. [Scripting](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#scripting)
-4. [Command Name](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#command-name)
-5. [Command Option](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#command-option)
-6. Command Argument
+Apa itu Linux?
 
+- Apa itu Open Source?
+- Apa itu Closed Source?
+- Apa itu Kernel?
+  - Kernel Architecture
+  - Monolithic Kernel
+    - Dynamic Linking
+  - Microkernel
+  - Linux Kernel
+  - Linux Distribution
+- Apa itu Unix?
+  - POSIX Standard
+  - MINIX
+- Apa itu GNU?
