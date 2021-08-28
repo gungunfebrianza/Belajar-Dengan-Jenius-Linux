@@ -34,6 +34,10 @@ OS Linux bersifat open source dan OS Windows bersifat closed source.
 
 ## Apa itu Kernel?
 
+Kernel adalah inti dari sebuah sistem operasi, yang menjadi layer perantara antara software dan hardware. Kernel melayani permintaan (request) dari sebuah aplikasi (arbitrary application) agar bisa berinteraksi dengan hardware.
+
+
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
