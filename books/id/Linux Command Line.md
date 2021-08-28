@@ -234,7 +234,7 @@ Untuk membuat **file** eksekusi perintah (**Command**) dan **Argument** di bawah
 ~$ touch indonesia
 ```
 
-Perintah (Command) touch hanya dapat digunakan untuk membuat file saja, tidak bisa digunakan untuk membuat sebuah directory. Selanjutnya eksekusi perintah ls -l untuk melihat waktu pembuatan file :
+Perintah (**Command**) **touch** hanya dapat digunakan untuk membuat **file** saja, tidak bisa digunakan untuk membuat sebuah **directory**. Selanjutnya eksekusi perintah **ls -l** untuk melihat waktu pembuatan **file** :
 
 ```bash
 ~$ ls -l
@@ -243,7 +243,7 @@ Perintah (Command) touch hanya dapat digunakan untuk membuat file saja, tidak bi
 …
 ```
 
-Waktu pembuatan file yaitu pada March 26 13:22, untuk mengubah modification time tambahkan options -m pada perintah (Command) touch.
+Waktu pembuatan **file** yaitu pada **March 26 13:22**, untuk mengubah **modification time** tambahkan **options -m** pada perintah (**Command**) **touch**.
 
 <img src="../assets/LinuxCommand-Touch3.png" style="zoom:90%;" />
 
@@ -262,7 +262,7 @@ Jika sudah kita dapat memeriksanya dengan mengeksekusi perintah di bawah ini :
 …
 ```
 
-Modification time pada file indonesia kini berubah menjadi March 26 13:25, namun jika kita mengeksekusi perintah ls -lu kita dapat melihat waktu akses masih belum berubah :
+**Modification time** pada **file** indonesia kini berubah menjadi **March 26 13:25**, namun jika kita mengeksekusi perintah **ls -lu** kita dapat melihat waktu akses masih belum berubah :
 
 ```bash
 ~$ ls -lu
@@ -271,4 +271,26 @@ Modification time pada file indonesia kini berubah menjadi March 26 13:25, namun
 …
 ```
 
-Untuk mengubah waktu access time tambahkan options -a pada perintah (Command) touch.
+Untuk mengubah waktu **access time** tambahkan **options -a** pada perintah (**Command**) **touch**.
+
+<img src="../assets/LinuxCommand-Touch4.png" style="zoom:90%;" />
+
+Untuk mengubah **access time** eksekusi perintah (**Command**) di bawah ini :
+
+```bash
+~$ touch -a indonesia
+```
+
+Jika sudah kita dapat memeriksanya dengan mengeksekusi perintah di bawah ini :
+
+```bash
+~$ ls -lu
+…
+-rw-rw-r-- 1 ubuntu ubuntu    0 Mar 26 13:27 indonesia
+…
+```
+
+**Access time** pada **file** indonesia kini sudah berubah.
+
+### Make Directory
+
