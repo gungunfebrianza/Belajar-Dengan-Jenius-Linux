@@ -121,6 +121,14 @@ Pengembangan sistem operasi UNIX memberikan kemajuan terkait teori-teori bagaima
 
 Pada akhir tahun 70an sampai 80an UNIX menjadi pusat kajian didunia penelitian, akademi, hingga tumbuhnya perkembangan sistem operasi UNIX untuk tujuan komersil dan bisnis.
 
+Awalnya UNIX bersifat closed source, lisensi source code bisa didapatkan dengan cara melakukan perjanjian dengan pemiliknya yaitu AT&T. Lisensi pertama UNIX dijual pertama kali untuk University of Illinois sekitar tahun 1975.
+
+Pengembangan UNIX terus berlanjut hingga pada tahun 1979 Berkeley Software Distribution (BSD) dipublikasikan dengan tambahan program yang kini sangat populer oleh Bill Joy. Program tersebut adalah vi dan C Shell.
+
+BSD menjadi salah satu popular branch dalam UNIX family dan terdapat fenomena menarik yaitu UNIX War, terjadi pada tahun akhir 80an sampai dengan awal 90an. UNIX war adalah kompetisi antar vendor menawarkan UNIX Computer.
+
+Kompetisi tersebut memberikan kemajuan pada peradaban sistem operasi komputer, standarisasi sistem operasi yang baik dan benar jadi arus utama. Pada tahun 1988, POSIX Standard lahir.
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
