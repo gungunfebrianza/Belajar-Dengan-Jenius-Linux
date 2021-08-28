@@ -213,6 +213,14 @@ Pada tahun 1990 seluruh komponen untuk membuat sistem operasi berhasil dibangun 
 
 Hadirnya linux kernel menjadi poin penting dalam sejarah karena mengisi komponen yang hilang dalam pembentukan sistem operasi. Kombinasi dari GNU system dan linux kernel akhirnya berhasil membentuk sebuah sistem operasi komplit. 
 
+Kombinasi keduanya di sebut dengan GNU/Linux system. Pada GNU/Linux system segala sesuatu yang tidak free tidak termasuk kedalam kategori. 
+
+
+
+Linux-libre bisa mengacu pada dua hal pertama sebuah konseptual dan yang kedua komponen kernel, pada level konseptual linux-libre artinya kernel tidak boleh mengandung obfucasted code atau source code yang mengandung proprietary licenses.
+
+Pada level komponen linux-libre adalah sebuah kernel yang menjadi pelengkap GNU system untuk membangun sebuah sistem operasi secara lengkap dan utuh. Linux-libre adalah versi modifikasi dari linux kernel yang dibuat oleh linus torvald.
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
