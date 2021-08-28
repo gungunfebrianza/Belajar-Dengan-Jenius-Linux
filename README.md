@@ -2,7 +2,7 @@
 
 ## Karya : Gun Gun Febrianza
 
-<img src="books/assets/cover.png" style="zoom:40%;" />
+<img src="books/assets/cover-linux.png" style="zoom:90%;" />
 
 ## Open Library Indonesia
 
@@ -25,3 +25,8 @@ Apa itu Linux?
   - POSIX Standard
   - MINIX
 - Apa itu GNU?
+  - GNU/Linux System
+  - Free Software
+  - GNU General Public License
+  - GCC
+- Apa itu Linux Virtual Machine?
