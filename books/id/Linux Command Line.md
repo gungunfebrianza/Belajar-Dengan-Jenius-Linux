@@ -161,3 +161,6 @@ Pada perintah di atas kita menggunakan switches -a untuk melihat seluruh file te
 ```
 
 ### Hidden File
+
+Pada sistem operasi linux kita dapat membuat file yang terlihat (visible file) dan file yang tersembunyi (hidden file).
+
