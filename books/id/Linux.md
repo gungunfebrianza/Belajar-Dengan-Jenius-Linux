@@ -42,7 +42,18 @@ Pada gambar di atas, pada user level seorang pengguna akan berinteraksi dengan s
 
 Misal, kernel harus berinteraksi dengan hardisk, maka harus ditentukan path mana yang akan digunakan untuk menyalin data dari disk ke memory. Kernel juga bisa dikatakan sebagai sebuah library yang menyediakan berbagai perintah untuk mengelola sistem. 
 
-Kernel akan dimuat kedalam RAM saat system boots dan memiliki banyak sekali procedure yang digunakan untuk membuat sistem dapat beroperasi. Setelah kernel dimuat kedalam RAM, service bisa disediakan untuk sistem dan user. Beberapa servis berjalan diluar lingkup kernel space 
+Kernel akan dimuat kedalam RAM saat system boots dan memiliki banyak sekali procedure yang digunakan untuk membuat sistem dapat beroperasi. Setelah kernel dimuat kedalam RAM, service bisa disediakan untuk sistem dan user. Beberapa servis berjalan diluar lingkup kernel space.
+
+### Kernel Architecture
+
+Ada 2 arsitektur pengembangan kernel yang dominan yaitu kernel secara :
+
+1. Monolithic dan 
+2. Microkernel. 
+
+Sebagian besar UNIX-kernel menggunakan arsitektur monolithic, begitu juga Linux Kernel yang dibangun Linus Torvald juga di desain secara **monolithic**. 
+
+
 
 
 
