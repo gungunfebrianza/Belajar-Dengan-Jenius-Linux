@@ -155,6 +155,32 @@ Jika sebuah sistem operasi di desain mirip dengan UNIX maka disebut dengan UNIX-
 
 Ciri dari sistem operasi UNIX adalah :
 
+1. Kernel
+
+   Core sistem operasi
+
+2. Shell
+
+   Sebuah program interpreter yang dapat menerjemahkan perintah yang diberikan oleh user. Baik sistem operasi UNIX dan UNIX-like tersedia beberapa shell seperti sh (Bourne Shell), bash (Bourne again shell), csh (C Shell), tcsh (TENEX C Shell), ksh (Korn Shell) dan zsh (Z Shell).
+
+3. Filesystem
+
+   Baik sistem operasi UNIX dan UNIX-like menyediakan struktur directory yang bersifat hierarchy dan segala sesuatunya diperlakukan sebagai file.
+
+4. Development Environment
+
+   Baik sistem operasi UNIX dan UNIX-like menyediakan tools dan libraries untuk menulis, melakukan kompilasi, dan debugging menggunakan bahasa C & C++.
+
+5. Command
+
+   Baik sistem operasi UNIX dan UNIX-like menyediakan standard utilities yang menjadi core untuk editting text, membuat file, manajemen program, process dan membaca data sistem dan user.
+
+6. Documentation
+
+   Sebuah manual book untuk mendapatkan informasi lebih lanjut terkait perintah, system calls dan libraries yang tersedia dalam sistem operasi.
+
+   
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
