@@ -8,25 +8,47 @@
 
 ### Table of Contents
 
+1. Computer
 
+2. Operating System
 
-Apa itu Linux?
+   - Processor Management
+   - Memory Management
+   - Input or Output (I/O) Management
+   - Application Management
+   - Security Management
+   - OS Classification
 
-- Apa itu Open Source?
-- Apa itu Closed Source?
-- Apa itu Kernel?
-  - Kernel Architecture
-  - Monolithic Kernel
-    - Dynamic Linking
-  - Microkernel
-  - Linux Kernel
-  - Linux Distribution
-- Apa itu Unix?
-  - POSIX Standard
-  - MINIX
-- Apa itu GNU?
-  - GNU/Linux System
-  - Free Software
-  - GNU General Public License
-  - GCC
-- Apa itu Linux Virtual Machine?
+3. Linux Operating System
+
+4. Apa itu Linux?
+
+   - Apa itu Open Source?
+
+   - Apa itu Closed Source?
+   - Apa itu Kernel?
+     - Kernel Architecture
+     - Monolithic Kernel
+       - Dynamic Linking
+     - Microkernel
+     - Linux Kernel
+     - Linux Distribution
+   - Apa itu Unix?
+     - POSIX Standard
+     - MINIX
+   - Apa itu GNU?
+     - GNU/Linux System
+     - Free Software
+     - GNU General Public License
+     - GCC
+   - Apa itu Linux Virtual Machine?
+     - Virtual Machine
+   - Apa itu Hypervisor?
+   - Apa itu Virtualization?
+     - Multiple Execution Environment
+
+   
+
+5. asdasd
+
+- 
