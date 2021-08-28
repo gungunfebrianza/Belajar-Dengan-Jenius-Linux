@@ -212,6 +212,12 @@ Fungsi dari masing-masing **switch** :
 - **Option -t switch** memberikan karakteristik pada perintah untuk mensortir file berdasarkan waktu modifikasi (modification date) dimulai dari yang terbaru diurutan paling atas/awal. 
 - **Option -h** stands memberikan karakteristik **human readable,** output akan menampilkan ukuran file yang lebih mudah dibaca dalam satuan Mega Bytes (MB) bukan dalam satuan bytes. 
 
-### Apa itu Command Arguments?
+## Apa itu Command Arguments?
 
-**Arguments** adalah informasi yang menjadi input untuk diproses sebuah command, sebelumnya kita sudah menggunakan arguments. Di bawah ini contoh Command, Options dan Arguments secara lengkap :
+**Arguments** adalah informasi yang menjadi input untuk diproses sebuah **command**, sebelumnya kita sudah menggunakan **arguments**. Di bawah ini contoh **Command**, **Options** dan **Arguments** secara lengkap :
+
+<img src="../assets/LinuxCommand6.png" style="zoom:90%;" />
+
+Selanjutnya kita akan belajar bagaimana membuat sebuah **file**, mengubah **modification time**, dan **access time file** dengan memanfaatkan **command argument**.
+
+### Touch Command
