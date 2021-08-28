@@ -2,7 +2,27 @@
 
 ## Penulis : Gun Gun Febrianza
 
-## Linux
+# Apa itu Linux ?
+
+Pada tahun 1991 seorang mahasiswa lulusan dari **Universitas Helsinki** dari Finlandia mulai menulis sistem operasi gratis (**free operating system**) sebagai hobi. Sebuah hobi yang kelak akan menjadi sejarah besar kemajuan peradaban teknologi.
+
+**Linus Torvald** mengawali pembangunan **UNIX like kernel** untuk **IBM PC (Intel 80386) Architecture** [1]. Sebuah **personal computer** zaman dulu :
+
+<img src="../assets/IBM-PC.jpg" style="zoom:80%;" />
+
+Pengembangan awal dilakukan pada tahun 1991, di tahun itu **linux** pertama kali di posting melalui internet, pembangunan **linux kernel** melalui proses yang panjang dan rumit.
+
+Pengembangan linux kernel bisa terwujud berkat kolaborasi para ahli yang dikendalikan secara terpusat oleh Linus Torvald. Kontribusi kode dari para ahli di atasi menggunakan sebuah mailing list yaitu **LKML (Linux Kernel Mailing List)**.
+
+**Linus** berkontribusi besar dalam meningkatkan kualitas **linux** agar bisa **up-to-date** dengan berbagai pengembangan **hardware device** dan berkoordinasi dengan ribuan para ahli lainnya untuk mengembangkan **linux** dari seluruh dunia.
+
+Selama bertahun-tahun para pengembang berhasil membuat **linux** tersedia di beberapa arsitektur seperti **Hewlett-packard Alpha**, **Intel’s Itanium**, **AMD’s AMD64**, **PowerPC** dan **IBM’s zSeries**. 
+
+Sistem operasi yang dibuat bersifat **open source** dan menjadi proyek **open source** terbesar dalam sejarah dunia **software engineering**. **Project open source** tersebut kini dikenal dengan sebutan **linux**.
+
+## Apa itu Open Source?
+
+
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
 
