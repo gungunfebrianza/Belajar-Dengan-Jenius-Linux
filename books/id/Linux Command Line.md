@@ -189,4 +189,29 @@ Kita dapat menggunakan lebih dari satu **options** dalam satu perintah (**Comman
 
 <img src="../assets/LinuxCommand3.png" style="zoom:90%;" />
 
-Sebagai contoh eksekusi perintah (**Command**) ini ls -alth kemudian tekan enter :
+Sebagai contoh eksekusi perintah (**Command**) ini **ls -alth** kemudian tekan enter :
+
+```bash
+~$ ls -alth
+total 36K
+drwxr-xr-x 5 ubuntu ubuntu 4.0K Mar 15 04:53 .
+-rw------- 1 ubuntu ubuntu   32 Mar 15 04:53 .bash_history
+-rw-r--r-- 1 ubuntu ubuntu    0 Mar 15 04:53 .sudo_as_admin_successful
+drwx------ 2 ubuntu ubuntu 4.0K Mar 15 01:01 .cache
+drwx------ 3 ubuntu ubuntu 4.0K Mar 15 01:01 .gnupg
+drwx------ 2 ubuntu ubuntu 4.0K Mar 14 19:41 .ssh
+drwxr-xr-x 3 root   root   4.0K Mar 14 19:41 ..
+-rw-r--r-- 1 ubuntu ubuntu  220 Apr  4  2018 .bash_logout
+-rw-r--r-- 1 ubuntu ubuntu 3.7K Apr  4  2018 .bashrc
+-rw-r--r-- 1 ubuntu ubuntu  807 Apr  4  2018 .profile
+```
+
+Fungsi dari masing-masing **switch** :
+
+- **Option -l switch** memberikan karakteristik pada perintah untuk menampilkan seluruh file dalam bentuk list lengkap dengan detil informasi lainnya seperti waktu pembuatan file (creation date). 
+- **Option -t switch** memberikan karakteristik pada perintah untuk mensortir file berdasarkan waktu modifikasi (modification date) dimulai dari yang terbaru diurutan paling atas/awal. 
+- **Option -h** stands memberikan karakteristik **human readable,** output akan menampilkan ukuran file yang lebih mudah dibaca dalam satuan Mega Bytes (MB) bukan dalam satuan bytes. 
+
+### Apa itu Command Arguments?
+
+**Arguments** adalah informasi yang menjadi input untuk diproses sebuah command, sebelumnya kita sudah menggunakan arguments. Di bawah ini contoh Command, Options dan Arguments secara lengkap :
