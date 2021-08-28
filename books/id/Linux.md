@@ -22,6 +22,14 @@ Sistem operasi yang dibuat bersifat **open source** dan menjadi proyek **open so
 
 ## Apa itu Open Source?
 
+<img src="../assets/SourceCode.png" style="zoom:90%;" />
+
+**Open Source** artinya kode pemrogramannya tersedia untuk publik, sehingga kita dapat melihat kode pemrogrammannya dan memodifikasinya sesuai kebutuhan kita. Kita juga bisa ikut mengembangkan kode pemrograman tersebut agar bisa menjadi lebih baik dan dapat digunakan oleh orang lain dalam satu **codebase**. 
+
+## Apa itu Closed Source?
+
+
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
