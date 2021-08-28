@@ -62,10 +62,10 @@
      - [Free Software](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#free-software)
      - [GNU General Public License](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#gnu-general-public-license)
      - [GCC](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#gcc)
-   - Apa itu Linux Virtual Machine?
-     - Virtual Machine
-   - Apa itu Hypervisor?
-   - Apa itu Virtualization?
+   - [Apa itu Linux Virtual Machine?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Virtual%20Machine.md#apa-itu-linux-virtual-machine-)
+     - [Virtual Machine](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Virtual%20Machine.md#virtual-machine)
+   - [Apa itu Hypervisor?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Virtual%20Machine.md#apa-itu-hypervisor-)
+   - [Apa itu Virtualization?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Virtual%20Machine.md#apa-itu-virtualization)
      - Multiple Execution Environment
 
    

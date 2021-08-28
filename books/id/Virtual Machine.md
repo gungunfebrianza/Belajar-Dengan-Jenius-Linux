@@ -51,3 +51,19 @@ Semua ini dapat diwujudkan karena terdapat teknologi Virtualization.
 Terminologi Virtualization memiliki makna membuat sesuatu secara virtual atau artifisial. 
 
 Dalam buku Virtualization Security yang diterbitkan EC-Council, dikatakan bahwa Virtualization adalah kerangka (framework) atau metodologi bagaimana membagi sumber daya (resources) sebuah komputer agar bisa menjadi sebuah multiple execution environment[10]**.**
+
+### Multiple Execution Environment
+
+Apa sih yang dimaksud Multiple Execution Environment?
+
+Sebelum Virtualization muncul dahulu kita menggunakan satu sistem operasi untuk setiap mesin. Perhatikan gambar di bawah ini :
+
+<img src="../assets/VirtualMachine3.png" style="zoom:40%;" />
+
+Kemudian muncul virtualization layer yang dapat kita gunakan, misal untuk memasang sistem operasi lebih dari satu dalam satu mesin komputer. 
+
+Inilah yang dimaksud dengan Multiple Execution Environment. Semuanya di isolasi agar masing-masing bisa berjalan dengan baik.
+
+<img src="../assets/VirtualMachine4.png" style="zoom:40%;" />
+
+Terminologi virtualization mengacu pada pembuatan suatu resource(s) secara virtual. Sehingga dapat menghemat biaya untuk memaksimalkan pemanfaatan sumber daya suatu komputer. 
