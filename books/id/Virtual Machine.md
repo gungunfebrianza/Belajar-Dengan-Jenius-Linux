@@ -67,3 +67,10 @@ Inilah yang dimaksud dengan Multiple Execution Environment. Semuanya di isolasi 
 <img src="../assets/VirtualMachine4.png" style="zoom:40%;" />
 
 Terminologi virtualization mengacu pada pembuatan suatu resource(s) secara virtual. Sehingga dapat menghemat biaya untuk memaksimalkan pemanfaatan sumber daya suatu komputer. 
+
+Virtualization dapat melakukan emulation suatu hardware menggunakan software yang selanjutnya beberapa tehnik dikembangkan agar bisa membangun : 
+
+1. Server Virtualization, 
+2. Dekstop Virtualization, 
+3. Network Virtualization, 
+4. Storage Virtualization dan masih banyak lagi.
