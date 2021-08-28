@@ -14,3 +14,9 @@ Contoh Linux Virtual Machine adalah kita membuat sistem operasi *linux* berjalan
 
 Sistem operasi windows di sebut sebagai **host** dan sistem operasi linux yang menjadi virtual machine disebut sebagai **Guest**.
 
+<img src="../assets/VirtualMachine1.png" style="zoom:90%;" />
+
+Virtual Machine memiliki representasi binary file biasanya dalam format ISO yang dapat kita salin atau pindahkan ke dalam physical computer sehingga menjadi portable.
+
+**Virtual Machine (VM)** dapat berbasis **Full Virtualization** untuk meniru sebuah OS secara keseluruhan. VM diimplementasikan dengan membangun sebuah software layer pada physical machine untuk mendukung sebuah arsitektur mesin secara virtual[11]. 
+
