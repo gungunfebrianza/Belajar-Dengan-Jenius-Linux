@@ -199,6 +199,20 @@ Richard Stallman dan kawan-kawan berusaha membuat sistem operasi yang kompatibel
 
 Compatibility menjadi poin penting agar pengguna dapat melakukan switching dari sistem operasi UNIX ke GNU dan dari GNU ke UNIX dengan mudah. 
 
+---------------
+
+
+
+### GNU/Linux System
+
+Pada tahun 1985 Richard Stallman membangun Free Software Foundation (FSF). Tujuan dari Free Software Foundation (FSF) adalah membantu membiayai pembangunan sistem operasi GNU yang mirip dengan UNIX (UNIX-like Operating System).
+
+Pendanaan diperlukan sebagai insentif karena ada banyak sekali komponen yang harus dibangun seperti kernel, compiler, editor, graphical interface, text-formatter, libraries, games dan sebagainya.
+
+Pada tahun 1990 seluruh komponen untuk membuat sistem operasi berhasil dibangun kecuali satu komponen yaitu kernel. Pada tahun 1991 Linus Torvald berhasil membangun sebuah kernel yang mirip dengan UNIX (UNIX-like kernel), kernel tersebut diberi nama linux.
+
+Hadirnya linux kernel menjadi poin penting dalam sejarah karena mengisi komponen yang hilang dalam pembentukan sistem operasi. Kombinasi dari GNU system dan linux kernel akhirnya berhasil membentuk sebuah sistem operasi komplit. 
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
