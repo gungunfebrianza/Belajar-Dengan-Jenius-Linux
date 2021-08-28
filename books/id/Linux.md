@@ -187,7 +187,11 @@ Terminologi Free Software mengacu pada kebebasan (Freedom) bukan harga atau nila
 
 Kebebasan disini juga bermakna kita bisa saja membayar atau tidak membayar sama sekali untuk setiap penggunaan GNU Software. Tergantung kesepakatan antara penyedia GNU Software dan pihak yang membutuhkan.
 
+Pada Tahun 1971, Richard Stallman memulai karirnya di MIT bekerja di dalam grup yang menggunakan free software secara berlebihan sehingga menimbulkan ketergantungan. 
 
+Pada masa itu perusahaan-perusahaan komputer sering mendistribusikan free software dan para programmer juga secara bebas untuk berkolaborasi dengan programmer lainnya.
+
+Namun pada tahun 80an, hampir sebagian besar software bersifat proprietary yang artinya sebuah software ada pemiliknya secara legal, ada usaha privatisasi. Hal ini yang menjadi driver lahirnya The GNU Project. 
 
 
 
