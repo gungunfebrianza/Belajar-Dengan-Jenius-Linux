@@ -231,6 +231,24 @@ Jadi tidak perlu menunggu pengembangan GNU Hurd sampai selesai, sampai saat ini 
 
 http://www.gnu.org/software/hurd/hurd.html
 
+---------------
+
+
+
+### Free Software
+
+Free software artinya sebuah software yang memiliki nilai nilai kebebasan (freedom) dan eksistensinya sangat penting tersedia untuk komunitas. 
+
+Free software secara teknis artinya pengguna memiliki kebebasan untuk menjalankan, menyalin, mendistribusikan, mempelajari, memodifikasi dan memperbaiki software. 
+
+Jadi terminologi free disini bukan gratis tanpa biaya moneter semacam free ongkir atau “free beer” tapi terminologi free di analogikan bekerja seperti “free speech”, seperti anda memiliki kebebasan untuk berbicara dan berpendapat.
+
+----------
+
+
+
+GNU General Public License
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
