@@ -27,3 +27,15 @@ Gambar di atas adalah ilustrasi kita dapat memiliki 3 Virtual Machine CentOS dal
 Dalam beberapa literatur Full Virtualization sering juga disebut sebagai *System Virtual* Machine atau Hardware Virtual Machine. Sehingga dalam satu physical server atau physical computer kita dapat membangun Multiple OS Environment sekaligus. 
 
 Untuk mewujudkanya kita memerlukan sebuah ***Hypervisor\***.
+
+## Apa itu Hypervisor?
+
+<img src="../assets/Hypervisor.png" style="zoom:90%;" />
+
+Software untuk membuat virtual machine di antaranya adalah Virtualbox dan VMware Workstation. Saat kita membuat virtual machine kita dapat membuat virtual CPU, virtual disk dan memory yang ingin kita alokasikan. 
+
+Oleh karena itu teknologi virtualization sangat membantu untuk membangun infrastructure yang scalable. 
+
+Virtualbox dan VMware Workstation adalah sebuah hypervisor yang dapat kita gunakan untuk membangun guest operating system di dalam host operating system. Hypervisor adalah software yang bertanggung jawab untuk membangun system virtualization[12].
+
+Semua ini dapat diwujudkan karena terdapat teknologi Virtualization.
