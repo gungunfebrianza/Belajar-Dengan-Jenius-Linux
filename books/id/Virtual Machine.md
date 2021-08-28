@@ -20,3 +20,10 @@ Virtual Machine memiliki representasi binary file biasanya dalam format ISO yang
 
 **Virtual Machine (VM)** dapat berbasis **Full Virtualization** untuk meniru sebuah OS secara keseluruhan. VM diimplementasikan dengan membangun sebuah software layer pada physical machine untuk mendukung sebuah arsitektur mesin secara virtual[11]. 
 
+<img src="../assets/VirtualMachine2.png" style="zoom:90%;" />
+
+Gambar di atas adalah ilustrasi kita dapat memiliki 3 Virtual Machine CentOS dalam dekstop PC Ubuntu Linux.
+
+Dalam beberapa literatur Full Virtualization sering juga disebut sebagai *System Virtual* Machine atau Hardware Virtual Machine. Sehingga dalam satu physical server atau physical computer kita dapat membangun Multiple OS Environment sekaligus. 
+
+Untuk mewujudkanya kita memerlukan sebuah ***Hypervisor\***.
