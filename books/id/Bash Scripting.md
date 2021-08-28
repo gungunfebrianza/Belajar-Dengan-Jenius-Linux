@@ -7,7 +7,7 @@
 ### Shebang
 
 ```bash
-$ #!/bin/bash
+#!/bin/bash
 ```
 
 
@@ -15,7 +15,7 @@ $ #!/bin/bash
 ### Comment
 
 ```bash
-$ #!/bin/bash
+#!/bin/bash
 
 # This is Comment
 ```
@@ -25,7 +25,7 @@ $ #!/bin/bash
 ### Hello World
 
 ```bash
-$ #!/bin/bash
+#!/bin/bash
 
 # This is Comment
 echo "Hello World"
@@ -109,6 +109,17 @@ $ man uptime
 untuk keluar dari dokumentasi tekan tombol q.
 
 
+
+### Variable
+
+```bash
+#!/bin/bash
+
+VAR_EXAMPLE='Maudy Ayunda'
+echo "$VAR_EXAMPLE"
+```
+
+Gunakan double quote untuk menampilkan variable dan single quote khusus untuk menampilkan string  secara langsung.
 
 
 
