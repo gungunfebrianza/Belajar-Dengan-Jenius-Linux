@@ -273,7 +273,13 @@ Selanjutnya adalah menyimpan file dari GNU General Public License dalam satu dir
 
 https://www.gnu.org/licenses/gpl-3.0.txt
 
- 
+-----
+
+
+
+### GCC
+
+Salah satu Produk dari GNU Project adalah GCC (GNU Compiler Collection), GCC memiliki peran besar dalam dunia open source. Bahasa pemrograman perl & python ditulis menggunakan c dan dikompilasi menggunakan GCC.
 
 
 
