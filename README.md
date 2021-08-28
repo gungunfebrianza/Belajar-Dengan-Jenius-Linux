@@ -10,6 +10,19 @@
 
 1. Computer
 
+   - Computer Program
+   - Computation
+   - Computer System
+     - Input Unit
+     - Output Unit
+     - Memory Unit
+       - Memory Hierarchy
+       - Register
+       - Cache Memory
+     - Central Processing Unit (CPU)
+     - Graphic Processing Unit (GPU)
+     - Secondary Storage Unit
+
 2. Operating System
 
    - Processor Management
