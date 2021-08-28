@@ -31,3 +31,6 @@ hello maudy
 hello world
 ```
 
+## Apa itu Command?
+
+Command adalah perintah yang akan kita berikan agar dieksekusi oleh shell. Untuk menguji perintah pertama kita, ketik perintah (Command) pada shell prompt **whoami** kemudian tekan Enter. 
