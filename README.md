@@ -42,23 +42,23 @@
 
 3. Linux Operating System
 
-4. Apa itu Linux?
+4. [Apa itu Linux?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-linux-)
 
-   - Apa itu Open Source?
+   - [Apa itu Open Source?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-open-source)
 
-   - Apa itu Closed Source?
-   - Apa itu Kernel?
-     - Kernel Architecture
-     - Monolithic Kernel
-       - Dynamic Linking
-     - Microkernel
-     - Linux Kernel
-     - Linux Distribution
-   - Apa itu Unix?
-     - POSIX Standard
-     - MINIX
-   - Apa itu GNU?
-     - GNU/Linux System
+   - [Apa itu Closed Source?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-closed-source)
+   - [Apa itu Kernel?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-kernel)
+     - [Kernel Architecture](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#kernel-architecture)
+     - [Monolithic Kernel](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#monolithic-kernel)
+       - [Dynamic Linking](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#dynamic-linking)
+     - [Microkernel](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#microkernel)
+     - [Linux Kernel](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#linux-kernel)
+     - [Linux Distribution](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#linux-distribution)
+   - [Apa itu Unix?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-unix)
+     - [POSIX Standard](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#posix-standard)
+     - [MINIX](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#minix)
+   - [Apa itu GNU?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-gnu)
+     - [GNU/Linux System](GNU/Linux System)
      - Free Software
      - GNU General Public License
      - GCC
