@@ -133,7 +133,7 @@
    - Output Redirection
    - File Descriptor
 
-10. Linux Pipe
+10. [Linux Pipe](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Pipe.md)
 
 11. [System Programming](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/System%20Programming.md)
 
