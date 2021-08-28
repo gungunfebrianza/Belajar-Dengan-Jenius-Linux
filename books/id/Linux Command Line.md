@@ -52,4 +52,17 @@ Untuk mengetahui saat ini kita berada di posisi **directory** yang mana eksekusi
 /home/ubuntu
 ```
 
-Kita akan mencoba untuk pindah directory menuju /home directory menggunakan perintah (command) cd
+Kita akan mencoba untuk pindah **directory** menuju **/home directory** menggunakan perintah (**command**) **cd**.
+
+### Change Directory
+
+<img src="../assets/LinuxCommand5.png" style="zoom:90%;" />
+
+Untuk berpindah **directory** eksekusi perintah **cd /home** kemudian tekan enter.
+
+```bash
+~$ cd  /home
+/home$ 
+```
+
+Seketika kita langsung berpindah **directory**.
