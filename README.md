@@ -70,27 +70,27 @@
 
    
 
-5. Linux Command Line
+5. [Linux Command Line](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#linux-command-line)
 
-   - Apa itu Shell?
-   - Apa itu Command?
-     - Present Working Directory
-     - Change Directory
-     - Root Directory
-     - List Directory Content
-     - Path Directory
-     - Absolute & Relative Path
-   - Apa itu Command Options?
-     - Hidden File
-     - Current Directory & Parrent Directory
-     - Switches
-   - Apa itu Command Arguments?
-     - Touch Command
-     - Make Directory
-     - Make Multiple Directory
-     - Make Subdirectory
-     - List Subdirectory
-     - Command History
+   - [Apa itu Shell?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#apa-itu-shell)
+   - [Apa itu Command?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#apa-itu-command)
+     - [Present Working Directory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#present-working-directory)
+     - [Change Directory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#change-directory)
+     - [Root Directory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#root-directory)
+     - [List Directory Content](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#list-directory-content)
+     - [Path Directory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#path-directory)
+     - [Absolute & Relative Path](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#absolute--relative-path)
+   - [Apa itu Command Options?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#apa-itu-command-options)
+     - [Hidden File](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#hidden-file)
+     - [Current Directory & Parrent Directory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#current-directory--parrent-directory)
+     - [Switches](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#switches)
+   - [Apa itu Command Arguments?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#apa-itu-command-arguments)
+     - [Touch Command](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#touch-command)
+     - [Make Directory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#make-directory)
+     - [Make Multiple Directory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#make-multiple-directory)
+     - [Make Subdirectory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#make-subdirectory)
+     - [List Subdirectory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#list-subdirectory)
+     - [Command History](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#command-history)
 
 6. Linux Editor
 
