@@ -221,3 +221,27 @@ Fungsi dari masing-masing **switch** :
 Selanjutnya kita akan belajar bagaimana membuat sebuah **file**, mengubah **modification time**, dan **access time file** dengan memanfaatkan **command argument**.
 
 ### Touch Command
+
+<img src="../assets/LinuxCommand-Touch.png" style="zoom:90%;" />
+
+Setiap **file** yang kita ciptakan dalam sistem operasi **linux** memiliki **modification time** dan **access time**. Dengan perintah (**Command**) **touch** kita dapat membuat sebuah **file**, dan **argument** yang dibutuhkan adalah nama **file** yang akan di buat.
+
+<img src="../assets/LinuxCommand-Touch2.png" style="zoom:90%;" />
+
+Untuk membuat **file** eksekusi perintah (**Command**) dan **Argument** di bawah ini :
+
+```bash
+~$ touch indonesia
+```
+
+Perintah (Command) touch hanya dapat digunakan untuk membuat file saja, tidak bisa digunakan untuk membuat sebuah directory. Selanjutnya eksekusi perintah ls -l untuk melihat waktu pembuatan file :
+
+```bash
+~$ ls -l
+…
+-rw-rw-r-- 1 ubuntu ubuntu    0 Mar 26 13:22 indonesia
+…
+```
+
+Waktu pembuatan file yaitu pada March 26 13:22, untuk mengubah modification time tambahkan options -m pada perintah (Command) touch.
+
