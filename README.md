@@ -95,9 +95,34 @@
 6. Linux Editor
 
    - Nano Editor
+     - Create Text
+     - Save Text
+     - Open Text
+     - Replace Text
    - Vi Editor
+     - Insert Mode
+     - Command Mode
    - View Mode
+     - cat Command
+     - tac Command
+     - more Command
+     - less Command
+     - head Command
+     - tail Command
 
-7. Reserve
+7. File & Filesystem
+
+   - Apa itu File?
+   - Type of Files
+
+8. Filesystem Manipulation
+
+   - Copy
+   - Move
+   - Rename
+   - Remove
+
+9. Reserve
 
 - 
+
