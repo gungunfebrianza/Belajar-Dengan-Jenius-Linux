@@ -39,4 +39,17 @@ hello world
 
 Perintah (**Command**) ini digunakan untuk mencetak nama pengguna sistem operasi **linux** yang sedang menggunakan **shell**. **Linux command** bersifat **case sensitive**.
 
-Secara konvensi penulisan perintah (Command) ditulis menggunakan huruf kecil (*lowercase*). Selanjutnya kita akan mencoba perintah dasar yang paling sering digunakan di dalam *shell*.
+Secara konvensi penulisan perintah (Command) ditulis menggunakan huruf kecil (lowercase). Selanjutnya kita akan mencoba perintah dasar yang paling sering digunakan di dalam *shell*.
+
+### Present Working Directory
+
+<img src="../assets/LinuxCommand4.png" style="zoom:90%;" />
+
+Untuk mengetahui saat ini kita berada di posisi **directory** yang mana eksekusi perintah (**command**) **pwd** kemudian tekan enter.
+
+```bash
+~$ pwd
+/home/ubuntu
+```
+
+Kita akan mencoba untuk pindah directory menuju /home directory menggunakan perintah (command) cd
