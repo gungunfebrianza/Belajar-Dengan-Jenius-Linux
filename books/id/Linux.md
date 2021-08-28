@@ -67,6 +67,12 @@ Monolithic kernel memiliki keunggulan secara performance dibandingkan dengan mic
 
 Dengan Dynamic Linking sekumpulan modules dengan kernel code dapat dimuat dan dicabut kedalam kernel kapan saja dalam keadaan runtime. Pemasangan modules untuk memberikan tambahan fungsionalitas.
 
+### Microkernel
+
+//todo
+
+
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
