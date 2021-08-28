@@ -113,6 +113,11 @@
 7. File & Filesystem
 
    - Apa itu File?
+     - Bit
+     - Byte
+     - Bytes
+     - Character
+     - ASCII
    - Type of Files
 
 8. Filesystem Manipulation
@@ -122,7 +127,17 @@
    - Rename
    - Remove
 
-9. Reserve
+9. I/O Redirection
+
+   - Input Redirection
+   - Output Redirection
+   - File Descriptor
+
+10. Linux Pipe
+
+11. System Programming
+
+12. Reserve
 
 - 
 
