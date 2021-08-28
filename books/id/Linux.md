@@ -105,7 +105,21 @@ Saat ini terdapat ratusan **linux distribution** yang dapat anda pantau di :
 
 [www.distrowatch.com](http://www.distrowatch.com)
 
+<img src="../assets/LinuxDistribution.png" style="zoom:80%;" />
 
+Ada berbagai distribution masing-masing memiliki tujuan, untuk tujuan umum kita dapat menggunakan Ubuntu, untuk riset STEM menggunakan Pop!OS, untuk keamanan dan pentesting dapat menggunakan kali linux dan sebagainya.
+
+Karena linux bersifat free dan open source siapapun dapat membangun versi distributionnya sendiri. Selain free & open source linux distribution juga terdapat versi linux distribution komersil untuk enterprise seperti red hat enterprise linux server.
+
+-------
+
+## Apa itu Unix?
+
+Unix adalah sebuah sistem operasi yang di kembangkan di AT&T Bell Labs sejak tahun 70an oleh Ken Thompson, Dennis Ritchie dan kawan-kawan. Awalnya ditulis menggunakan bahasa assembly, selanjutnya ditulis ulang ditulis menggunakan bahasa C.
+
+Pengembangan sistem operasi UNIX memberikan kemajuan terkait teori-teori bagaimana cara mendesain sistem operasi yang baik dan teori-teori software engineering, seperti konsep modularity dan reusability untuk pembangunan sistem operasi.
+
+Pada akhir tahun 70an sampai 80an UNIX menjadi pusat kajian didunia penelitian, akademi, hingga tumbuhnya perkembangan sistem operasi UNIX untuk tujuan komersil dan bisnis.
 
 
 
