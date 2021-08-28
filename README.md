@@ -20,6 +20,14 @@
        - Register
        - Cache Memory
      - Central Processing Unit (CPU)
+       - Processor
+       - Arithmetic & Logic Unit (ALU)
+       - Von Neumann Architecture
+       - CPU Register
+       - Instruction Set Architecture (ISA)
+       - Moore's Laws
+       - Multi-core Processor
+       - Multi-core Programming
      - Graphic Processing Unit (GPU)
      - Secondary Storage Unit
 
