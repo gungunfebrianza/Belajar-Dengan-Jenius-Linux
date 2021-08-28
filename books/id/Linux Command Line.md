@@ -33,4 +33,10 @@ hello world
 
 ## Apa itu Command?
 
-Command adalah perintah yang akan kita berikan agar dieksekusi oleh shell. Untuk menguji perintah pertama kita, ketik perintah (Command) pada shell prompt **whoami** kemudian tekan Enter. 
+**Command** adalah perintah yang akan kita berikan agar dieksekusi oleh **shell**. Untuk menguji perintah pertama kita, ketik perintah (**Command**) pada shell prompt **whoami** kemudian tekan Enter. 
+
+<img src="../assets/LinuxCommand1.png" style="zoom:90%;" />
+
+Perintah (**Command**) ini digunakan untuk mencetak nama pengguna sistem operasi **linux** yang sedang menggunakan **shell**. **Linux command** bersifat **case sensitive**.
+
+Secara konvensi penulisan perintah (Command) ditulis menggunakan huruf kecil (*lowercase*). Selanjutnya kita akan mencoba perintah dasar yang paling sering digunakan di dalam *shell*.
