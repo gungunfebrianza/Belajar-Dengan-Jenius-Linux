@@ -294,3 +294,64 @@ Jika sudah kita dapat memeriksanya dengan mengeksekusi perintah di bawah ini :
 
 ### Make Directory
 
+<img src="../assets/LinuxCommand-mkdir.png" style="zoom:90%;" />
+
+Untuk membuat sebuah directory eksekusi perintah (Command) di bawah ini :
+
+```bash
+~$ mkdir maudy
+```
+
+Untuk melihat hasilnya eksekusi perintah (Command) di bawah ini:
+
+```bash
+$ ls
+maudy
+```
+
+### Make Multiple Directory
+
+<img src="../assets/LinuxCommand-mkdir2.png" style="zoom:90%;" />
+
+Kita juga dapat membuat 3 **directories** sekaligus dengan memanfaatkan **multi-arguments** seperti pada perintah (**Command**) di bawah ini :
+
+```bash
+~$ mkdir maudya ayunda faza
+```
+
+Untuk melihat hasilnya eksekusi perintah (**Command**) **list** :
+
+```bash
+~$ ls
+ayunda faza maudy maudya
+```
+
+Kini terdapat 4 **directories**.
+
+### Make Subdirectory
+
+<img src="../assets/LinuxCommand-mkdir3.png" style="zoom:90%;" />
+
+Untuk membuat **sub-directory** kita dapat menggunakan **option -p**, pada **argument** kita membuat **full path /perahu/kertas/maudy**. Silahkan coba eksekusi perintah (**Command**) di bawah ini :
+
+```bash
+~$ mkdir -p perahu/kertas/maudy
+```
+
+Untuk melihat hasilnya eksekusi perintah (**Command**) **list** :
+
+```bash
+~$ ls
+ayunda  faza  maudy  maudya  perahu
+ubuntu@xxx : ~$ cd perahu
+ubuntu@xxx : ~$ ls
+kertas
+ubuntu@xxx : ~$ cd kertas
+ubuntu@xxx : ~$ ls
+maudy
+```
+
+Anda bisa mencobanya sebagai latihan.
+
+### List Subdirectory
+
