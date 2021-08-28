@@ -66,3 +66,29 @@ Untuk berpindah **directory** eksekusi perintah **cd /home** kemudian tekan ente
 ```
 
 Seketika kita langsung berpindah **directory**.
+
+### Root Directory
+
+Untuk berpindah menuju root directory agar bisa melihat struktur filesystem linux eksekusi perintah cd / kemudian tekan enter.
+
+```bash
+~$ cd /
+/$
+```
+
+Perhatikan posisi **Present Working Directory** (**PWD**) saat ini berada di dalam **root directory** yang ditandai dengan **path xxx@xxx : /$**.
+
+### List Directory Content
+
+Untuk melihat terdapat **directory** apa saja eksekusi perintah **ls** kemudian tekan enter. 
+
+```bash
+~$ /$ ls
+bin   home            lib64       opt   sbin  tmp      vmlinuz.old
+boot  initrd.img      lost+found  proc  snap  usr
+dev   initrd.img.old  media       root  srv   var
+etc   lib             mnt         run   sys   vmlinuz
+
+```
+
+Perintah ini akan menampilkan daftar file (*lists files*) di dalam suatu *directory*.
