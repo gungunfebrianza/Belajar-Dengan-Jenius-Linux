@@ -61,6 +61,12 @@ Monolithic kernel adalah konsep tradisional yang sudah lama digunakan, pada mono
 
 Sebagai process tunggal monolithic kernel memiliki internal data structure dan routines yang dapat digunakan untuk memberikan berbagai fungsionalitas.
 
+#### Dynamic Linking
+
+Monolithic kernel memiliki keunggulan secara performance dibandingkan dengan microkernel. Linux Kernel didesain menggunakan arsitektur monolithic kernel dan telah mendukung konsep **Dynamic Linking**. 
+
+Dengan Dynamic Linking sekumpulan modules dengan kernel code dapat dimuat dan dicabut kedalam kernel kapan saja dalam keadaan runtime. Pemasangan modules untuk memberikan tambahan fungsionalitas.
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
