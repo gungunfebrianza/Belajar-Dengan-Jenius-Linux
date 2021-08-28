@@ -245,3 +245,30 @@ Perintah (Command) touch hanya dapat digunakan untuk membuat file saja, tidak bi
 
 Waktu pembuatan file yaitu pada March 26 13:22, untuk mengubah modification time tambahkan options -m pada perintah (Command) touch.
 
+<img src="../assets/LinuxCommand-Touch3.png" style="zoom:90%;" />
+
+Untuk mengubah **modification time** eksekusi perintah (**Command**) di bawah ini :
+
+```bash
+~$ touch -m indonesia
+```
+
+Jika sudah kita dapat memeriksanya dengan mengeksekusi perintah di bawah ini :
+
+```bash
+~$ ls -l
+…
+-rw-rw-r-- 1 ubuntu ubuntu    0 Mar 26 13:25 indonesia
+…
+```
+
+Modification time pada file indonesia kini berubah menjadi March 26 13:25, namun jika kita mengeksekusi perintah ls -lu kita dapat melihat waktu akses masih belum berubah :
+
+```bash
+~$ ls -lu
+…
+-rw-rw-r-- 1 ubuntu ubuntu    0 Mar 26 13:22 indonesia
+…
+```
+
+Untuk mengubah waktu access time tambahkan options -a pada perintah (Command) touch.
