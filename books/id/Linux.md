@@ -179,7 +179,15 @@ Ciri dari sistem operasi UNIX adalah :
 
    Sebuah manual book untuk mendapatkan informasi lebih lanjut terkait perintah, system calls dan libraries yang tersedia dalam sistem operasi.
 
-   
+## Apa itu GNU?
+
+GNU bukanlah UNIX, GNU (GNU is Not Unix). GNU atau The GNU Project adalah proyek pembangunan sistem operasi berbasis Unix-like yang bersifat free software. Project ini telah dimulai sejak tahun 1984.
+
+Terminologi Free Software mengacu pada kebebasan (Freedom) bukan harga atau nilai moneter (price). Kebebasan (Freedom) disini bermakna luas, bebas menjalankan software, menyalin, mendistribusikan dan memodifikasi source code dari software tersebut.
+
+Kebebasan disini juga bermakna kita bisa saja membayar atau tidak membayar sama sekali untuk setiap penggunaan GNU Software. Tergantung kesepakatan antara penyedia GNU Software dan pihak yang membutuhkan.
+
+
 
 
 
