@@ -115,10 +115,30 @@ Anda akan kembali lagi di halaman **/home/ubuntu**.
 
 ### Path Directory
 
-Pada sistem operasi linux alamat (path) dari directory menggunakan simbol forward slash (/) dan pada sistem operasi windows menggunakan simbol backward slash (\).
+Pada sistem operasi **linux** alamat (**path**) dari directory menggunakan simbol **forward slash (/)** dan pada sistem operasi **windows** menggunakan simbol **backward slash (\)**.
 
 ### Absolute & Relative Path
 
-Selain memahami konsep path directory pada linux yang mengunakan simbol forward slash (/), kita juga harus memahami konsep absolute path dan relative path. 
+Selain memahami konsep **path directory** pada **linux** yang mengunakan simbol **forward slash (/)**, kita juga harus memahami konsep **absolute path** dan **relative path**. 
 
-Pada absolute path, alamat (path) ditulis secara lengkap misal /home/ubuntu
+Pada **absolute path**, alamat (**path**) ditulis secara lengkap misal **/home/ubuntu**
+
+```bash
+~$ cd /home/ubuntu
+```
+
+Pada **relative path** alamat tidak ditulis dengan lengkap, misal jika kita melakukan **change directory** menuju **/var directory** :
+
+```bash
+~$ cd /var
+```
+
+Selanjutnya kita dapat menggunakan alamat (**path**) **log/cloud-init.log** di dalam **var directory** tanpa perlu mengeksekusi menggunakan **full path /var/log/cloud-init.log**.Jadi jika perintah (**command**) di atas tidak menampilkan **output** apapun berarti dalam **directory** tersebut tidak terdapat **visible file** sama sekali.
+
+Untuk melihat **hidden file** kita akan mempelajarinya di halaman selanjutnya, untuk itu pastikan kita kembali melakukan navigasi menuju **directory home/ubuntu** :
+
+```bash
+/$ cd home/ubuntu
+~$
+```
+
