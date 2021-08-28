@@ -247,13 +247,33 @@ Jadi terminologi free disini bukan gratis tanpa biaya moneter semacam free ongki
 
 
 
-GNU General Public License
+### GNU General Public License
 
 The GNU General Public License bersifat free dan copyleft yaitu bebas untuk mendistribusikan dan memodifikasi hak intelektual dengan syarat turunan dari hasil modifikasi juga harus berbasis copyleft.
 
 Hampir sebagian besar lisensi software didesain agar kita tidak bisa mendistribusikannya dan memodifikasinya secara bebas. 
 
 GNU General Public License dibuat untuk menjamin kebebasan anda untuk mendistribusikan dan memodifikasi software agar tersedia untuk setiap pengguna. GNU General Public License di gagas oleh Free Software Foundation.
+
+Kita diberi izin untuk menggunakan GNU General Public License dalam project software yang sedang kita buat.
+
+GNU General Public License di desain agar kita dapat mendistribusikan salinan software tanpa membebankan biaya atau membebankan biaya.
+
+Kita bisa mendapatkan salinan software lengkap dengan source code, menggunakan sebagian dalam source code dan memodifikasi source code. Ini adalah sebuah hak yang diperjuangkan dalam GNU General Public License.
+
+Manfaat dari GNU General Public License untuk seorang developer adalah kebebasan secara legal untuk menyalin, mendistribusikan dan memodifikasinya. Juga melindungi developer dan author dengan tidak membebankan jaminan untuk setiap free software.
+
+Untuk menggunakan GNU General Public License, misal pada sebuah dokumen anda harus mengisi informasi di bawah ini :
+
+Copyright (C) year your name.
+
+`Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 3.0 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled ‘‘GNU Free Documentation License’’.`
+
+Selanjutnya adalah menyimpan file dari GNU General Public License dalam satu directory agar dapat dibaca oleh pengguna. Untuk mendapatkannya cek disini :
+
+https://www.gnu.org/licenses/gpl-3.0.txt
+
+ 
 
 
 
