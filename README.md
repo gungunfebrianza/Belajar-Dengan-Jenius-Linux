@@ -70,6 +70,21 @@
 
    
 
-5. asdasd
+5. Linux Command Line
+
+   - Apa itu Shell?
+   - Apa itu Command?
+     - Present Working Directory
+     - Change Directory
+     - Root Directory
+     - List Directory Content
+     - Path Directory
+     - Absolute & Relative Path
+   - Apa itu Command Options?
+   - Apa itu Command Arguments?
+
+6. Linux Editor
+
+7. Reserve
 
 - 
