@@ -148,11 +148,11 @@ Setelah mempelajari **Command** (Perintah) kita akan mempelajari **options** ata
 
 <img src="../assets/Options.png" style="zoom:90%;" />
 
-Opsi perintah atau biasa disebut **command-line options** digunakan agar perintah (Command) yang dieksekusi memiliki karakteristik tertentu. Untuk memberikan karakteristik perintah kita perlu menggunakan **switches** atau **flags**. 
+Opsi perintah atau biasa disebut **command-line options** digunakan agar perintah (**Command**) yang dieksekusi memiliki karakteristik tertentu. Untuk memberikan karakteristik perintah kita perlu menggunakan **switches** atau **flags**. 
 
 <img src="../assets/LinuxCommand2.png" style="zoom:90%;" />
 
-Pada perintah di atas kita menggunakan switches -a untuk melihat seluruh file termasuk hidden file. Perintah di atas akan memproduksi output berupa sekumpulan hidden files yang ditandai dengan ciri awalan nama file menggunakan simbol dot (.) :
+Pada perintah di atas kita menggunakan **switches -a** untuk melihat seluruh **file** termasuk **hidden file**. Perintah di atas akan memproduksi **output** berupa sekumpulan **hidden files** yang ditandai dengan ciri awalan nama **file** menggunakan simbol **dot (.)** :
 
 ```bash
 ~$ ls -a
@@ -162,5 +162,12 @@ Pada perintah di atas kita menggunakan switches -a untuk melihat seluruh file te
 
 ### Hidden File
 
-Pada sistem operasi linux kita dapat membuat file yang terlihat (visible file) dan file yang tersembunyi (hidden file).
+Pada sistem operasi **linux** kita dapat membuat **file** yang terlihat (**visible file**) dan **file** yang tersembunyi (h**idden file**).
 
+<img src="../assets/File.png" style="zoom:90%;" />
+
+Perintah (command) ls digunakan untuk menampilkan daftar file yang terlihat saja (visible file) sementara command ls dengan options -a membantu kita melihat hidden file.
+
+### Current Directory & Parrent Directory
+
+Simbol dot (.) artinya kita sedang berada dalam sebuah directory dan double dot (..) menandakan terdapat sebuah parent directory.
