@@ -215,11 +215,21 @@ Hadirnya linux kernel menjadi poin penting dalam sejarah karena mengisi komponen
 
 Kombinasi keduanya di sebut dengan GNU/Linux system. Pada GNU/Linux system segala sesuatu yang tidak free tidak termasuk kedalam kategori. 
 
-
+<img src="../assets/GNU-Linux.png" style="zoom:90%;" />
 
 Linux-libre bisa mengacu pada dua hal pertama sebuah konseptual dan yang kedua komponen kernel, pada level konseptual linux-libre artinya kernel tidak boleh mengandung obfucasted code atau source code yang mengandung proprietary licenses.
 
 Pada level komponen linux-libre adalah sebuah kernel yang menjadi pelengkap GNU system untuk membangun sebuah sistem operasi secara lengkap dan utuh. Linux-libre adalah versi modifikasi dari linux kernel yang dibuat oleh linus torvald.
+
+<img src="../assets/GNU-Linux1.png" style="zoom:90%;" />
+
+The GNU Project juga sebenarnya mengembangkan kernel yang dikenal dengan GNU Hurd yang dimulai sejak awal tahun 90an, namun progresnya cukup lambat sampai pada tahun 2001 GNU Hurd mulai bisa digunakan secara reliable.
+
+Hanya saja GNU Hurd masih memiliki berbagai kekurangan untuk digunakan lebih jauh untuk pengguna. Linux kernel yang dibangun Linus Torvald membantu mengisi kekosongan gap penting dalam pembangunan GNU System. 
+
+Jadi tidak perlu menunggu pengembangan GNU Hurd sampai selesai, sampai saat ini GNU Hurd masih dalam tahap active development. Versi terakhir saat buku ini ditulis masih versi GNU Hurd 0.93, anda dapat memeriksanya disini :
+
+http://www.gnu.org/software/hurd/hurd.html
 
 
 
