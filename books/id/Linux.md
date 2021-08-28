@@ -141,6 +141,12 @@ Meskipun source code UNIX tersedia namun ukurannya sangat besar dan rumit dalam 
 
 Andrew S Tanenbaum berusaha membangun sebuah UNIX-like system yang lebih mudah difahami, dengan cara membangun versi minimum yang dapat dijadikan sebagai kerangka dasar agar mudah difahami.
 
+Sistem terdiri dari 11.800 baris bahasa C & 800 baris bahasa assembly yang dipublikasikan sekitar tahun 1987. Secara fungsionalitas hampir setara dengan UNIX pada versi ke 7.
+
+MINIX adalah UNIX-like system yang dibangun pertama kali dengan pendekatan arsitektur microkernel. 
+
+Kernel terdiri dari 1600 baris bahasa C dan 800 baris bahasa assembly. Pembangunan dilakukan untuk komputer dengan arsitektur 8088, sehingga untuk membangun I/O Device driver diperlukan 2900 baris bahasa C, 5.100 baris bahasa C untuk file system dan 2.200 baris bahasa C untuk memory manager.
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
