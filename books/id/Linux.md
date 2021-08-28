@@ -147,6 +147,14 @@ MINIX adalah UNIX-like system yang dibangun pertama kali dengan pendekatan arsit
 
 Kernel terdiri dari 1600 baris bahasa C dan 800 baris bahasa assembly. Pembangunan dilakukan untuk komputer dengan arsitektur 8088, sehingga untuk membangun I/O Device driver diperlukan 2900 baris bahasa C, 5.100 baris bahasa C untuk file system dan 2.200 baris bahasa C untuk memory manager.
 
+Kelebihan dari desain microkernel dari monolithic kernel adalah kemudahan untuk difahami dan dipelihara karena strukturnya yang modular. Kekurangannya adalah performance akan berjalan rendah akibat aktivitas switching antara user mode dan kernel mode.
+
+MINIX didesain seminimal mungkin sehingga untuk dunia akademia dapat dimanfaatkan agar para mahasiswa-mahasiswi bisa mempelajarinya dalam kurun waktu satu semester.
+
+Jika sebuah sistem operasi di desain mirip dengan UNIX maka disebut dengan UNIX-Like Operating System.
+
+Ciri dari sistem operasi UNIX adalah :
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
