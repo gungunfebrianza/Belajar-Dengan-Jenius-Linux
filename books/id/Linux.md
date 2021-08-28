@@ -135,6 +135,12 @@ POSIX (Portable Operating System Interface) standard membantu pengembang softwar
 
 POSIX membangun bahasa universal terkait bagaimana cara berinteraksi dengan API (Application Programming Interface).
 
+### MINIX
+
+Meskipun source code UNIX tersedia namun ukurannya sangat besar dan rumit dalam konteks usaha untuk memahami. Seseorang kemungkinan akan memahami kesulitan untuk mempelajari source code UNIX.
+
+Andrew S Tanenbaum berusaha membangun sebuah UNIX-like system yang lebih mudah difahami, dengan cara membangun versi minimum yang dapat dijadikan sebagai kerangka dasar agar mudah difahami.
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
