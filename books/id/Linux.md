@@ -71,6 +71,40 @@ Dengan Dynamic Linking sekumpulan modules dengan kernel code dapat dimuat dan di
 
 //todo
 
+### Linux Kernel
+
+Secara technical, linux adalah sebuah UNIX-like Kernel. Linux sebagai UNIX-like kernel tidak menyediakan komponen lainnya yang dapat membentuk sebuah sistem operasi yang utuh.
+
+Untuk menjadi sebuah sistem operasi yang utuh linux kernel memerlukan komponen lainnya seperti core utilities, text-editor, compiler, user interface, dan sebagainya.
+
+Namun karena semua komponen tersebut tersedia secara free dengan lisensi GPL pada akhirnya siapapun dapat menggunakan linux kernel untuk membuat sebuah sistem operasi yang disebut dengan linux.
+
+Linux Kernel atau UNIX-like kernel yang dikembangkan Linus Torvald dibangun menggunakan GNU Toolchain. Linus Torvald menulis kernel pertama, sambil membaca buku yang berjudul The Design of UNIX Operating System.
+
+Saat linux kernel mencapai versi 2.6, linux kernel sudah sesuai dengan kaidah IEEE POSIX Standard. Artinya setiap UNIX Program dapat dikompilasi dan dieksekusi dalam lingkungan linux system.
+
+Untuk mendukung pembangunan Modern Operating System, Linux Kernel mendukung fitur-fitur seperti virtual memory, virtual filesystem, lightweight processes, unix signals, SVR4 interprocess communications, symmetric multiprocessor system dan masih banyak lagi. 
+
+Saat ini tepatnya pada tahun 2021, Linux kernel telah mencapai versi 5.11 dengan 30 juta baris code lebih.
+
+Sebagai catatan, selain Linux-kernel yang dibuat Linus Torvald juga terdapat alternatif open source UNIX Kernel lainnya seperti :
+
+1. FreeBSD
+2. NetBSD
+3. OpenBSD
+
+-------------
+
+### Linux Distribution
+
+**Linux** sebenarnya adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
+
+Untuk menyempurnakan linux agar menjadi sebuah sistem operasi yang dapat digunakan, kita memerlukan sekumpulan program (*bundling program*) yang kita kenal sebagai **distribution**.
+
+Saat ini terdapat ratusan **linux distribution** yang dapat anda pantau di :
+
+[www.distrowatch.com](http://www.distrowatch.com)
+
 
 
 
