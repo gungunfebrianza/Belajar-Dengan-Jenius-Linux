@@ -193,6 +193,12 @@ Pada masa itu perusahaan-perusahaan komputer sering mendistribusikan free softwa
 
 Namun pada tahun 80an, hampir sebagian besar software bersifat proprietary yang artinya sebuah software ada pemiliknya secara legal, ada usaha privatisasi. Hal ini yang menjadi driver lahirnya The GNU Project. 
 
+Sistem operasi yang bersifat free software menjadi kunci fundamental yang harus diperjuangkan, agar pengguna tidak selalu bergantung pada sistem operasi yang bersifat proprietary software.
+
+Richard Stallman dan kawan-kawan berusaha membuat sistem operasi yang kompatibel dengan sistem operasi UNIX. Dikarenakan sistem operasi UNIX secara desain sudah di anggap proven. 
+
+Compatibility menjadi poin penting agar pengguna dapat melakukan switching dari sistem operasi UNIX ke GNU dan dari GNU ke UNIX dengan mudah. 
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
