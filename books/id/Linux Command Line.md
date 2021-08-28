@@ -142,3 +142,22 @@ Untuk melihat **hidden file** kita akan mempelajarinya di halaman selanjutnya, u
 ~$
 ```
 
+## Apa itu Command Options?
+
+Setelah mempelajari **Command** (Perintah) kita akan mempelajari **options** atau **command-line options** (Opsi Perintah).
+
+<img src="../assets/Options.png" style="zoom:90%;" />
+
+Opsi perintah atau biasa disebut **command-line options** digunakan agar perintah (Command) yang dieksekusi memiliki karakteristik tertentu. Untuk memberikan karakteristik perintah kita perlu menggunakan **switches** atau **flags**. 
+
+<img src="../assets/LinuxCommand2.png" style="zoom:90%;" />
+
+Pada perintah di atas kita menggunakan switches -a untuk melihat seluruh file termasuk hidden file. Perintah di atas akan memproduksi output berupa sekumpulan hidden files yang ditandai dengan ciri awalan nama file menggunakan simbol dot (.) :
+
+```bash
+~$ ls -a
+.   .bash_history  .bashrc  .gnupg    .ssh
+..  .bash_logout   .cache   .profile  .sudo_as_admin_successful
+```
+
+### Hidden File
