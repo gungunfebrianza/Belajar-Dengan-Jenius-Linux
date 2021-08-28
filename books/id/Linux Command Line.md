@@ -92,3 +92,33 @@ etc   lib             mnt         run   sys   vmlinuz
 ```
 
 Perintah ini akan menampilkan daftar file (*lists files*) di dalam suatu *directory*.
+
+<img src="../assets/LinuxFilesystem.png" style="zoom:90%;" />
+
+Jika kita ubah kedalam tampilan visual kita bisa melihat terdapat banyak sekali sub-directory di dalam root directory. Kita akan membahas masing-masing **directory** di bab khusus.
+
+Jika anda ingin mengetahui penjelasan setiap **directories**, eksekusi perintah di bawah ini :
+
+```bash
+~$ man hier
+```
+
+Menggunakan perintah **change directory** yaitu **cd** kita bisa mengeksplorasi setiap **directory** di atas, silahkan lakukan sendiri untuk latihan dan eksplorasi. Untuk membaca posisi anda saat ini gunakan perintah **pwd**.
+
+Jika anda merasa tersesat eksekusi perintah di bawah ini :
+
+```bash
+~$ cd ~ 
+```
+
+Anda akan kembali lagi di halaman **/home/ubuntu**.
+
+### Path Directory
+
+Pada sistem operasi linux alamat (path) dari directory menggunakan simbol forward slash (/) dan pada sistem operasi windows menggunakan simbol backward slash (\).
+
+### Absolute & Relative Path
+
+Selain memahami konsep path directory pada linux yang mengunakan simbol forward slash (/), kita juga harus memahami konsep absolute path dan relative path. 
+
+Pada absolute path, alamat (path) ditulis secara lengkap misal /home/ubuntu
