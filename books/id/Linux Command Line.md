@@ -355,3 +355,42 @@ Anda bisa mencobanya sebagai latihan.
 
 ### List Subdirectory
 
+<img src="../assets/LinuxCommand-ls.png" style="zoom:90%;" />
+
+Ada cara yang lebih mudah untuk mendapatkan informasi seluruh **sub-directory** dalam sebuah **directory**. Kita akan menggunakan perintah (**Command**) **ls** dengan **option -R** seperti di bawah ini : 
+
+```bash
+~$ ls -R perahu
+perahu:
+kertas
+
+perahu/kertas:
+maudy
+
+perahu/kertas/maudy:
+
+```
+
+Metode pencarian dilakukan secara rekursif menggunakan **option -R** (R kapital).
+
+### Command History
+
+Jika kita ingin melihat perintah apa saja yang telah kita eksekusi sebelumnya gunakan perintah command di bawah ini :
+
+```bash
+~$ history
+    1  whoami
+    2  pwd
+    3  cd /
+    4  ls 
+     …
+```
+
+Jika anda ingin mengeksekusi kembali perintah yang telah dilakukan misal perintah (Command) nomor satu, maka eksekusi !1 di dalam shell :
+
+```bash
+$ !1
+ubuntu
+```
+
+Anda juga dapat menekan tombol arrow up and down dalam keyboard anda untuk mendapatkan Command History sebelumnya.
