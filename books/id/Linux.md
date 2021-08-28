@@ -249,6 +249,12 @@ Jadi terminologi free disini bukan gratis tanpa biaya moneter semacam free ongki
 
 GNU General Public License
 
+The GNU General Public License bersifat free dan copyleft yaitu bebas untuk mendistribusikan dan memodifikasi hak intelektual dengan syarat turunan dari hasil modifikasi juga harus berbasis copyleft.
+
+Hampir sebagian besar lisensi software didesain agar kita tidak bisa mendistribusikannya dan memodifikasinya secara bebas. 
+
+GNU General Public License dibuat untuk menjamin kebebasan anda untuk mendistribusikan dan memodifikasi software agar tersedia untuk setiap pengguna. GNU General Public License di gagas oleh Free Software Foundation.
+
 
 
 **Linux** adalah sebuah **kernel**, bukan sebuah sistem operasi yang siap digunakan. 
