@@ -81,9 +81,22 @@
      - Path Directory
      - Absolute & Relative Path
    - Apa itu Command Options?
+     - Hidden File
+     - Current Directory & Parrent Directory
+     - Switches
    - Apa itu Command Arguments?
+     - Touch Command
+     - Make Directory
+     - Make Multiple Directory
+     - Make Subdirectory
+     - List Subdirectory
+     - Command History
 
 6. Linux Editor
+
+   - Nano Editor
+   - Vi Editor
+   - View Mode
 
 7. Reserve
 
