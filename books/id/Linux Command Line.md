@@ -39,7 +39,7 @@ hello world
 
 Perintah (**Command**) ini digunakan untuk mencetak nama pengguna sistem operasi **linux** yang sedang menggunakan **shell**. **Linux command** bersifat **case sensitive**.
 
-Secara konvensi penulisan perintah (Command) ditulis menggunakan huruf kecil (lowercase). Selanjutnya kita akan mencoba perintah dasar yang paling sering digunakan di dalam *shell*.
+Secara konvensi penulisan perintah (**Command**) ditulis menggunakan huruf kecil (**lowercase**). Selanjutnya kita akan mencoba perintah dasar yang paling sering digunakan di dalam **shell**.
 
 ### Present Working Directory
 
@@ -69,7 +69,7 @@ Seketika kita langsung berpindah **directory**.
 
 ### Root Directory
 
-Untuk berpindah menuju root directory agar bisa melihat struktur filesystem linux eksekusi perintah cd / kemudian tekan enter.
+Untuk berpindah menuju **root directory** agar bisa melihat struktur **filesystem linux** eksekusi perintah **cd /** kemudian tekan enter.
 
 ```bash
 ~$ cd /
@@ -166,13 +166,13 @@ Pada sistem operasi **linux** kita dapat membuat **file** yang terlihat (**visib
 
 <img src="../assets/File.png" style="zoom:90%;" />
 
-Perintah (command) ls digunakan untuk menampilkan daftar file yang terlihat saja (visible file) sementara command ls dengan options -a membantu kita melihat hidden file.
+Perintah (**command**) **ls** digunakan untuk menampilkan daftar **file** yang terlihat saja (**visible file**) sementara **command ls** dengan **options -a** membantu kita melihat **hidden file**.
 
 ### Current Directory & Parrent Directory
 
-Simbol dot (.) artinya kita sedang berada dalam sebuah directory dan double dot (..) menandakan terdapat sebuah parent directory.
+Simbol **dot (.)** artinya kita sedang berada dalam sebuah **directory** dan **double dot (..)** menandakan terdapat sebuah **parent directory**.
 
-<img src="../assets/LinuxFileSystem1.png" style="zoom:90%;" />
+<img src="../assets/LinuxFilesystem1.png" style="zoom:90%;" />
 
 ### Switches
 
@@ -208,9 +208,9 @@ drwxr-xr-x 3 root   root   4.0K Mar 14 19:41 ..
 
 Fungsi dari masing-masing **switch** :
 
-- **Option -l switch** memberikan karakteristik pada perintah untuk menampilkan seluruh file dalam bentuk list lengkap dengan detil informasi lainnya seperti waktu pembuatan file (creation date). 
-- **Option -t switch** memberikan karakteristik pada perintah untuk mensortir file berdasarkan waktu modifikasi (modification date) dimulai dari yang terbaru diurutan paling atas/awal. 
-- **Option -h** stands memberikan karakteristik **human readable,** output akan menampilkan ukuran file yang lebih mudah dibaca dalam satuan Mega Bytes (MB) bukan dalam satuan bytes. 
+- **Option -l switch** memberikan karakteristik pada perintah untuk menampilkan seluruh **file** dalam bentuk list lengkap dengan detil informasi lainnya seperti waktu pembuatan **file** (**creation date**). 
+- **Option -t switch** memberikan karakteristik pada perintah untuk mensortir **file** berdasarkan waktu modifikasi (**modification date**) dimulai dari yang terbaru diurutan paling atas/awal. 
+- **Option -h** **stands** memberikan karakteristik **human readable,** **output** akan menampilkan ukuran **file** yang lebih mudah dibaca dalam satuan **Mega Bytes** (**MB**) bukan dalam satuan **bytes**. 
 
 ## Apa itu Command Arguments?
 
