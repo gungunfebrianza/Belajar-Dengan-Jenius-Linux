@@ -28,7 +28,11 @@ Sistem operasi yang dibuat bersifat **open source** dan menjadi proyek **open so
 
 ## Apa itu Closed Source?
 
+Closed Source adalah sebuah project yang kode pemrogramannya bersifat privat, tidak tersedia untuk publik karena memiliki nilai komersil.
 
+OS Linux bersifat open source dan OS Windows bersifat closed source.
+
+## Apa itu Kernel?
 
 
 
