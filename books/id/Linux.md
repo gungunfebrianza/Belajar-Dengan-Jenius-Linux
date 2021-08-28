@@ -36,7 +36,13 @@ OS Linux bersifat open source dan OS Windows bersifat closed source.
 
 Kernel adalah inti dari sebuah sistem operasi, yang menjadi layer perantara antara software dan hardware. Kernel melayani permintaan (request) dari sebuah aplikasi (arbitrary application) agar bisa berinteraksi dengan hardware.
 
+<img src="../assets/Kernel.png" style="zoom:80%;" />
 
+Pada gambar di atas, pada user level seorang pengguna akan berinteraksi dengan sebuah application, sebuah application dapat memberikan perintah pada kernel. 
+
+Misal, kernel harus berinteraksi dengan hardisk, maka harus ditentukan path mana yang akan digunakan untuk menyalin data dari disk ke memory. Kernel juga bisa dikatakan sebagai sebuah library yang menyediakan berbagai perintah untuk mengelola sistem. 
+
+Kernel akan dimuat kedalam RAM saat system boots dan memiliki banyak sekali procedure yang digunakan untuk membuat sistem dapat beroperasi. Setelah kernel dimuat kedalam RAM, service bisa disediakan untuk sistem dan user. Beberapa servis berjalan diluar lingkup kernel space 
 
 
 
