@@ -20,3 +20,14 @@ Ketika kita memulai program ***shell*** maka anda akan melihat simbol dollar ($)
 
 Di bawah ini adalah struktur **command** di dalam **shell** :
 
+<img src="../assets/LinuxCommand.png" style="zoom:80%;" />
+
+Perintah (**Command**) pertama yang akan kita pelajari adalah **echo**, silahkan eksekusi perintah di bawah ini : 
+
+```bash
+~$ echo hello maudy
+hello maudy
+~$ echo hello world
+hello world
+```
+
