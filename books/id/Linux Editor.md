@@ -327,3 +327,17 @@ Untuk keluar dari **vi editor** perintahnya sebagai berikut :
 | :q             | Keluar dari **vi editor** tanpa menyimpan perubahan.         |
 | :q!            | Keluar dari **vi editor** tanpa menyimpan perubahan. (Force Mode) |
 
+----
+
+
+
+## View Mode
+
+Ada saatnya kita hanya ingin melihat **file** saja, **linux** menyediakan beberapa perintah yang dapat kita gunakan untuk **view mode**.
+
+<img src="../assets/FileViewing.png" style="zoom:90%;" />
+
+#### cat Command 
+
+Perintah (**Command**) **cat** sering kali digunakan untuk memeriksa **file** dengan cepat, di bawah ini kita menggunakan perintah (**Command**) **cat** untuk membaca **file** :
+
