@@ -64,3 +64,10 @@ Terdiri dari sekumpulan **output device** untuk menampilkan informasi yaitu **sc
 
 **Memory unit** menjadi tempat untuk mempertahankan informasi setelah melalui **input unit**, sehingga langsung tersedia untuk diproses oleh **processor** jika dibutuhkan untuk memproduksi hasil pada **Ouput Unit**.
 
+#### Memory Hierarchy
+
+Ada berbagai jenis **memory unit** yang disusun berdasarkan **memory hierarchy** yang disusun berdasarkan kapasitas penyimpanan dan waktu akses :
+
+<img src="../assets/Memory-Hierarchy.png" style="zoom:90%;" />
+
+Di bawah ini adalah waktu akses dan kapasitas tipikal untuk setiap memory dalam dalam hirarkinya :
