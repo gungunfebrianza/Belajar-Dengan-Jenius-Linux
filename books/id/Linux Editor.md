@@ -365,3 +365,22 @@ Kita juga bisa membaca beberapa **file** sekaligus menggunakan perintah (**Comma
 
 Perintah (**Command**) **more** digunakan untuk membaca konten **file** yang ukuran kontennya besar, tekan enter untuk membaca konten dan meningkatkan progres membaca :
 
+<img src="../assets/Command-more.png" style="zoom:90%;" />
+
+Tekan tombol **space bar** untuk loncat kehalaman selanjutnya, untuk kembali ke halaman sebelumnya tekan huruf b. Untuk keluar dari mode membaca tekan huruf q.
+
+### less Command 
+
+Perintah (**Command**) **less** adalah perbaikan dari perintah **more**, selain lebih cepat dalam membaca **file** terdapat tambahan fitur menggunakan **keyboard arrow up & down**.
+
+<img src="../assets/Command-less.png" style="zoom:90%;" />
+
+Untuk melakukannya eksekusi perintah di bawah ini :
+
+```bash
+~$ less /etc/services
+```
+
+#### head Command 
+
+Perintah (**Command**) **head** digunakan untuk membaca 10 baris pertama pada suatu **file**, jika anda ingin membaca 3 baris pertama eksekusi perintah di atas menggunakan **option -n** seperti pada gambar di bawah ini :
