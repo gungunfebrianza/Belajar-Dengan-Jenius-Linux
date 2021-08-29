@@ -174,3 +174,10 @@ Kebanyakan komputer hari ini telah memiliki lebih dari satu **CPU** sehingga dap
 
 Sebagai contoh **dual-core processor** artinya terdapat dua ***processor\*** dalam 1 **IC Chip** dan **quad-core** artinya terdapat 4 **processor** dalam **1 IC Chip.** Beberapa **processors** seperti **Intel Xeon Phi** dan **Tilera TilePro** memiliki lebih dari **60 cores** dalam **1 IC Chip**.
 
+#### Multi-core Programming
+
+Ada fakta yang menarik, seluruh bahasa pemrograman pupolar yang ada saat ini tidak didesain untuk bisa memanfaatkan ***multiple CPU Core (Multicore)\***. 
+
+Bahasa pemrograman seperti ***Go\*** telah di desain oleh para legend seperti Robert, Rob dan Ken agar kita dapat menulis ***parallel\*** dan ***concurrent\*** ***code\*** secara aman. Sehingga kita dapat memanfatkan keuntungan ***modern multicore CPU\*** dan ***Cloud Computing\***. 
+
+Transformasi ***performance computer\*** terus mengalami perubahan, dengan kondisi *status quo* dunia komputer saat ini. Hari ini berdiskusi mengenai kecepatan artinya bagaimana kita bisa memanfaatkan konsep ***parallel\*** atau ***concurrency\***. Kenapa bisa begitu? 
