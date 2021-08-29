@@ -142,3 +142,14 @@ Menyimpan instruksi yang saat ini telah di **decode** dan di eksekusi.
 
 Menyimpan data yang telah diproses, hasil dari sebuah komputasi. 
 
+#### CPU Register
+
+Fungsi dasar **CPU** adalah melakukan **fetch**, **decode**, dan **execute** setiap instruksi bahasa mesin yang berada di dalam **Read-only Memory (ROM)** ataupun **Random Access Memory (RAM)**.
+
+**CPU** akan melakukan **fetch data** dari sebuah memori eksternal dan mengirimkanya kedalam **internal memory** yang disebut dengan **register**.
+
+**Register** adalah sebuah **high-speed memory** yang ada di dalam internal **CPU**. **Register** digunakan **processor** untuk menyimpan sebuah hasil komputasi sementara yang ukurannya terbatas. Data yang tersimpan dapat berupa : 
+
+1. Alamat dari instruksi bahasa mesin selanjutnya yang akan dieksekusi.
+2. Instruksi bahasa mesin saat ini yang sedang di **decode**.
+3. Hasil komputasi.
