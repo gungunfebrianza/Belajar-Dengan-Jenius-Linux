@@ -195,6 +195,87 @@ Selain fitur menambahkan teks semuanya ada pada **Command Mode**, kita akan menc
 | p               | Paste setelah posisi kursor                      |
 | P               | Paste sebelum posisi kursor (P kapital)          |
 
+--------
+
+
+
 #### **Undo**
 
 Untuk melakukan undo tekan tombol u.
+
+| Vi COmmand Keys | Penjelasan                               |
+| --------------- | ---------------------------------------- |
+| u               | Undo perubahan terakhir.                 |
+| U               | Undo seluruh perubahan pada suatu baris. |
+
+Untuk menyalin sebuah kalimat saja **vi** memiliki **Command key** yang unik.
+
+------
+
+
+
+#### **Copy Words**
+
+Jika anda ingin menyalin satu kalimat saja setelah posisi kursor gunakan **Command Key** di bawah ini :
+
+| Vi COmmand Keys | Penjelasan                                        |
+| --------------- | ------------------------------------------------- |
+| yw              | Menyalin satu kalimat dimulai dari posisi kursor. |
+| 2yw             | Menyalin dua kalimat dimulai dari posisi kursor   |
+
+Untuk melakukan **cut** baris dan kalimat **vi** menggunakan **command key** berikut :
+
+| Vi COmmand Keys | Penjelasan                                   |
+| --------------- | -------------------------------------------- |
+| dd              | Cut satu baris dimulai dari posisi kursor.   |
+| 3dd             | Cut tiga baris dimulai dari posisi kursor.   |
+| dw              | Cut satu kalimat dimulai dari posisi kursor. |
+
+-----
+
+
+
+#### **Delete**
+
+Jika anda ingin menghapus karakter tekan tombol x, anda bisa melakukannya sekali atau berkali-kali untuk menghapus sebuah **string** :
+
+| Vi COmmand Key | Penjelasan                                          |
+| -------------- | --------------------------------------------------- |
+| x              | Menghapus satu karakter dimulai dari posisi kursor. |
+
+-----
+
+#### **Search**
+
+Jika anda ingin mencari sebuah kalimat tekan simbol /, selanjutnya ketik kalimat yang ingin anda cari :
+
+| Vi COmmand Key | Penjelasan              |
+| -------------- | ----------------------- |
+| /              | Mencari sebuah kalimat. |
+
+-----
+
+
+
+#### **Search** & Replace
+
+Untuk melakukan pencarian dan **replace** eksekusi perintah di bawah ini :
+
+| Vi COmmand Key    | Penjelasan                                         |
+| ----------------- | -------------------------------------------------- |
+| :%s/gun/febrianza | Mencari kata gun dan mengubahnya menjadi febrianza |
+
+-----
+
+Kita akan mencoba mengubah kata gun menjadi febrianza :
+
+<img src="../assets/Editor-Vi7.png" style="zoom:90%;" />
+
+Di bawah ini adalah hasil dari **Search & Replace** :
+
+<img src="../assets/Editor-Vi8.png" style="zoom:90%;" />
+
+**Jump**
+
+Untuk loncat ke baris tertentu gunakan simbol : diikuti nomor baris tujuan anda 
+
