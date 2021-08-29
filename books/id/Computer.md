@@ -45,3 +45,13 @@ Terdapat dua jenis komputasi yaitu :
 2. Dan *symbolic computation* seperti melakukan pencarian pada sebuah teks, memanipulasi teks, gambar dan vidio.
 
 ## Computer System
+
+Komputer terdiri dari sekumpulan **hardware** dan **software**, pada **hardware** terdapat beberapa **logical units** seperti :
+
+### Input Unit
+
+Terdiri dari sekumpulan **input device** untuk memproduksi informasi yaitu **keyboard**, **touchscreen**, **webcam**, **microphone**, **barcode scanner** dan **mouse devices.**
+
+### Ouput Unit
+
+Terdiri dari sekumpulan **output device** untuk menampilkan informasi yaitu **screen monitor**, **speaker**, **printer** hingga ke **oculus rift**. 
