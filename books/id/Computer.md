@@ -71,3 +71,17 @@ Ada berbagai jenis **memory unit** yang disusun berdasarkan **memory hierarchy**
 <img src="../assets/Memory-Hierarchy.png" style="zoom:90%;" />
 
 Di bawah ini adalah waktu akses dan kapasitas tipikal untuk setiap memory dalam dalam hirarkinya :
+
+<img src="../assets/Memory-Hierarchy2.png" style="zoom:90%;" />
+
+#### Register
+
+Urutan memory paling cepat tentu dipegang oleh register yang letaknya berada di dalam internal sebuah CPU. Di buat dengan material yang sama dengan CPU, didesain secepat CPU sehingga tidak ada delay sama sekali untuk waktu akses. 
+
+Hanya saja kapasitasnya terbatas baik untuk 32-64 bit CPU terdapat kapasitas kurang dari 1KB.
+
+#### Cache Memory
+
+Cache memory di control secara penuh oleh hardware, main memory dibagi menjadi beberapa baris cache (Cache Lines) dengan ukuran typical 64 bytes. 
+
+Dimulai dari address 0 sampai 63 pada baris cache 0, kemudian address 64-127 pada baris cache 1 dan seterusnya.
