@@ -87,9 +87,17 @@ Jika program A selesai dan kita mengeksekusi program C yang membutuhkan 3 **page
 
 Setiap **page**  yang digunakan oleh program bersifat **contiguos**, dapat berurutan atau acak. Sistem operasi akan menentukan **page**  mana yang akan digunakan dan membaca kembali data ketika dibutuhkan.
 
-
-
 -----
+
+
+
+### Input / Output (I/O) Management
+
+Perangkat **input** dan **output** disebut dengan **peripherals**, sekumpulan perangkat keras yang terhubung pada sistem komputer. 
+
+Sistem operasi dapat berinteraksi dengan **peripherals** dengan memanggil sekumpulan program yang ada di dalam **device driver**.
+
+------
 
 
 
