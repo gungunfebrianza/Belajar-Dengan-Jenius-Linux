@@ -161,3 +161,10 @@ Sebuah **CPU** memiliki kemampuan untuk memahami perintah yang disebut dengan **
 Program yang didesain untuk **x86 Processor** tidak dapat dieksekusi pada **ARM Processor**, begitu juga sebaliknya.
 
 **Instruction Set Architecture** adalah spesifikasi formal sebuah **CPU**, bagaimana sebuah **CPU** berinteraksi dengan **memory**, dan kapabilitas **I/O**. 
+
+#### Moore's Laws
+
+Berdasarkan **Moore’s Law** setiap 18 bulan sekali total **transistor** dalam **Central Processing Unit (CPU)** meningkat dua kali lipat. **Central Processing Unit (CPU)** mampu menampung lebih banyak **transistor** dan ukuranya semakin kecil.
+
+**Gordon Moore** adalah seorang **Intel Cofounder** yang telah melakukan observasi **Moore’s Law**.
+
