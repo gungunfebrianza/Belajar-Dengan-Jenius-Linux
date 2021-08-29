@@ -153,3 +153,11 @@ Fungsi dasar **CPU** adalah melakukan **fetch**, **decode**, dan **execute** set
 1. Alamat dari instruksi bahasa mesin selanjutnya yang akan dieksekusi.
 2. Instruksi bahasa mesin saat ini yang sedang di **decode**.
 3. Hasil komputasi.
+
+#### Instruction Set Architecture (ISA)
+
+Sebuah **CPU** memiliki kemampuan untuk memahami perintah yang disebut dengan **machine instruction** dan setiap **CPU** memiliki **instruction set architecture (ISA)** yang berbeda-beda. 
+
+Program yang didesain untuk **x86 Processor** tidak dapat dieksekusi pada **ARM Processor**, begitu juga sebaliknya.
+
+**Instruction Set Architecture** adalah spesifikasi formal sebuah **CPU**, bagaimana sebuah **CPU** berinteraksi dengan **memory**, dan kapabilitas **I/O**. 
