@@ -101,3 +101,23 @@ Sistem operasi dapat berinteraksi dengan **peripherals** dengan memanggil sekump
 
 
 
+### Application Management
+
+Sistem operasi memiliki sebuah **Application Programming Interface** (**API**) yang dapat diprogram dan digunakan oleh suatu aplikasi dan **hardware** untuk berinteraksi dengan sistem operasi itu sendiri. 
+
+----
+
+
+
+### Security Management
+
+Sistem operasi memiliki manajemen sistem keamanan dasar seperti :
+
+1. Manajemen **user**.
+2. Manajemen akses level untuk setiap **user**.
+3. **Auditing logs** untuk setiap **file** yang dibuat, diakses, diubah dan dihapus oleh setiap **user**.
+
+-----
+
+
+
