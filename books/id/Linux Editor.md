@@ -95,3 +95,6 @@ Jika kita ingin mengganti (**replace**) sebuah kata menggunakan **nano** tekan C
 
 Selanjutnya **nano editor** akan meminta anda mengisi kata apa yang ingin kita ganti (**replace**), pada gambar di bawah ini penulis ingin mengganti kata **world** dengan gun.
 
+<img src="../assets/Editor-Nano4.png" style="zoom:90%;" />
+
+Tekan enter, kemudian masukan gun.
