@@ -381,6 +381,23 @@ Untuk melakukannya eksekusi perintah di bawah ini :
 ~$ less /etc/services
 ```
 
-#### head Command 
+### head Command 
 
 Perintah (**Command**) **head** digunakan untuk membaca 10 baris pertama pada suatu **file**, jika anda ingin membaca 3 baris pertama eksekusi perintah di atas menggunakan **option -n** seperti pada gambar di bawah ini :
+
+<img src="../assets/Command-head.png" style="zoom:90%;" />
+
+Perhatikan terdapat **options** dan dua buah **argument** :
+
+<img src="../assets/Command-head2.png" style="zoom:90%;" />
+
+**Argument** pertama adalah jumlah baris yang ingin dibaca dan argument kedua adalah **file** yang ingin kita baca.
+
+-----
+
+
+
+### tail Command
+
+Perintah (**Command**) **tail** digunakan untuk membaca 10 baris terakhir pada suatu **file**, jika anda ingin membaca 3 baris terakhir eksekusi perintah di atas menggunakan **option -n** seperti pada gambar di bawah ini :
+
