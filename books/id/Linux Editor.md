@@ -98,3 +98,32 @@ Selanjutnya **nano editor** akan meminta anda mengisi kata apa yang ingin kita g
 <img src="../assets/Editor-Nano4.png" style="zoom:90%;" />
 
 Tekan enter, kemudian masukan gun.
+
+<img src="../assets/Editor-Nano5.png" style="zoom:90%;" />
+
+**Nano editor** akan mencari kata tersebut ada pada baris keberapa dan meminta anda untuk mengkonfirmasinya apakah akan menggantinya atau tidak seperti pada gambar di bawah ini :
+
+<img src="../assets/Editor-Nano6.png" style="zoom:90%;" />
+
+Tekan tombol Y untuk menyetujui dan enter.
+
+<img src="../assets/Editor-Nano7.png" style="zoom:90%;" />
+
+Informasi terkait berapa kata yang sudah kita ganti (**replace**) juga akan ditampilkan seperti pada gambar di atas.
+
+--------------
+
+
+
+## Vi Editor
+
+**Vi editor** adalah **editor** yang sangat direkomendasikan untuk pengguna **linux** dengan mobilitas tinggi dan profesional. Terdapat banyak sekali fitur yang disediakan dalam **vi editor** jika dibandingkan **nano editor**.
+
+Untuk membuka sebuah **file** menggunakan vi editor eksekusi perintah di bawah ini :
+
+```bash
+~$ vi maudy.txt
+```
+
+Di bawah ini adalah tampilan **command-line editor** menggunakan **vi** :
+
