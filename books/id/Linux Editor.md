@@ -279,3 +279,26 @@ Di bawah ini adalah hasil dari **Search & Replace** :
 
 Untuk loncat ke baris tertentu gunakan simbol : diikuti nomor baris tujuan anda 
 
+| Vi COmmand Key | Penjelasan               |
+| -------------- | ------------------------ |
+| :4             | Kursor menuju baris ke 4 |
+
+Untuk menampilkan dan menyembunyikan line number dalam **vi editor** perhatikan **command key** di bawah ini :
+
+| Vi COmmand Key | Penjelasan                                         |
+| -------------- | -------------------------------------------------- |
+| :set number    | Menampilkan line number dalam vi editor            |
+| :set nonumber  | Menyembunyikan kembali line number dalam vi editor |
+
+<img src="../assets/Editor-Vi9.png" style="zoom:90%;" />
+
+Untuk loncat ke baris terakhir teks tekan huruf G (kapital) dan untuk loncat ke baris pertama kode tekan gg.
+
+| Vi COmmand Key | Penjelasan                         |
+| -------------- | ---------------------------------- |
+| G              | Kursor menuju baris terakhir teks. |
+| gg             | Kursor menuju baris awal teks.     |
+
+#### **Save**
+
+Untuk menyimpan **file** perintahnya sebagai berikut : 
