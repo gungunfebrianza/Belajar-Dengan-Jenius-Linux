@@ -8,28 +8,28 @@
 
 ### Table of Contents
 
-1. Computer
+1. [Computer](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#computer)
 
-   - Computer Program
-   - Computation
-   - Computer System
-     - Input Unit
-     - Output Unit
-     - Memory Unit
-       - Memory Hierarchy
-       - Register
-       - Cache Memory
-     - Central Processing Unit (CPU)
-       - Processor
-       - Arithmetic & Logic Unit (ALU)
-       - Von Neumann Architecture
-       - CPU Register
-       - Instruction Set Architecture (ISA)
-       - Moore's Laws
-       - Multi-core Processor
-       - Multi-core Programming
-     - Graphic Processing Unit (GPU)
-     - Secondary Storage Unit
+   - [Computer Program](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#computer-program)
+   - [Computation](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#computation)
+   - [Computer System](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#computer-system)
+     - [Input Unit](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#input-unit)
+     - [Output Unit](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#ouput-unit)
+     - [Memory Unit](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#memory-unit)
+       - [Memory Hierarchy](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#memory-hierarchy)
+       - [Register](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#register)
+       - [Cache Memory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#cache-memory)
+     - [Central Processing Unit (CPU)](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#central-processing-unit-cpu)
+       - [Processor](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#processor)
+       - [Arithmetic & Logic Unit (ALU)](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#arithmetic--logic-unit-alu)
+       - [Von Neumann Architecture](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#von-neumann-architecture)
+       - [CPU Register](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#cpu-register)
+       - [Instruction Set Architecture (ISA)](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#instruction-set-architecture-isa)
+       - [Moore's Laws](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#moores-laws)
+       - [Multi-core Processor](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#multi-core-processor)
+       - [Multi-core Programming](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#multi-core-programming)
+     - [Graphic Processing Unit (GPU)](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#graphic-processing-unit-gpu)
+     - [Secondary Storage Unit](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#secondary-storage-unit)
 
 2. Operating System
 
@@ -40,7 +40,7 @@
    - Security Management
    - OS Classification
 
-3. Linux Operating System
+3. [Linux Operating System](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-linux-)
 
 4. [Apa itu Linux?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-linux-)
 
