@@ -176,8 +176,21 @@ Sebagai contoh **dual-core processor** artinya terdapat dua ***processor\*** dal
 
 #### Multi-core Programming
 
-Ada fakta yang menarik, seluruh bahasa pemrograman pupolar yang ada saat ini tidak didesain untuk bisa memanfaatkan ***multiple CPU Core (Multicore)\***. 
+Ada fakta yang menarik, seluruh bahasa pemrograman pupolar yang ada saat ini tidak didesain untuk bisa memanfaatkan **multiple CPU Core (Multicore)**. 
 
-Bahasa pemrograman seperti ***Go\*** telah di desain oleh para legend seperti Robert, Rob dan Ken agar kita dapat menulis ***parallel\*** dan ***concurrent\*** ***code\*** secara aman. Sehingga kita dapat memanfatkan keuntungan ***modern multicore CPU\*** dan ***Cloud Computing\***. 
+Bahasa pemrograman seperti **Go** telah di desain oleh para **legend** seperti **Robert**, **Rob** dan **Ken** agar kita dapat menulis **parallel** dan **concurrent code** secara aman. Sehingga kita dapat memanfatkan keuntungan **modern multicore CPU** dan **Cloud Computing**. 
 
-Transformasi ***performance computer\*** terus mengalami perubahan, dengan kondisi *status quo* dunia komputer saat ini. Hari ini berdiskusi mengenai kecepatan artinya bagaimana kita bisa memanfaatkan konsep ***parallel\*** atau ***concurrency\***. Kenapa bisa begitu? 
+Transformasi **performance computer** terus mengalami perubahan, dengan kondisi **status quo** dunia komputer saat ini. Hari ini berdiskusi mengenai kecepatan artinya bagaimana kita bisa memanfaatkan konsep **parallel** atau **concurrency**. Kenapa bisa begitu? 
+
+Di bawah ini adalah opini penulis, ada beberapa faktor kenapa **multi-core programming** akan membawa standar dan tren pemrograman di masa depan :
+
+1. Ingat **Moore’s Law** Effect.
+2. Setiap 18 bulan sekali kecepatan **Central Processing Unit (CPU)** terus meningkat dua kali lipat, dimulai dari semenjak tahun 1950.
+3. Namun setelah 50 tahun lebih, tepatnya pada tahun 2002 terdapat batasan dalam desain sirkuit **Central Processing Unit (CPU),** menuntut adanya arsitektur baru.
+4. Solusi atas permasalahan di atas adalah **multi-core processor**, setelah tahun 2002 dalam satu **chip** bisa terdapat 2 **core**, 4 **core**, 8 **core** lebih **processor**.
+5. Namun pada masing-masing **core** tidak mengalami peningkatan kecepatan, hanya kuantitas **core** saja yang bertambah. Hukum **Moore law** masih berjalan, bukan lagi dengan menambah **transistor** dalam **Central Processing Unit (CPU)** tetapi menambah **core** dalam 1 **chip** tunggal.
+6. **Chip manufacturer** mulai berhenti menambah **transistor**, **trend** mulai berfokus menambahkan **core** dan **cache**. Namun menambah jumlah **core** juga terbatas pada **cost** secara **economic**.
+7. Menambah jumlah **cache** juga pada akhirnya akan menemukan batasan, **the bigger the cache, the slower it gets**.
+8. Dari permasalahan di atas, jelas kita tidak bisa lagi mengandalkan inovasi peningkatan **hardware** melainkan bagaimana cara membangun **software development** yang efisien.
+9. Berdasarkan keadaan **status quo** industri **chip** saat ini, para **software engineer** harus memanfaatkan **multicore processor** dengan konsep **concurrency** untuk memaksimalkan kapabilitas **hardware**.
+
