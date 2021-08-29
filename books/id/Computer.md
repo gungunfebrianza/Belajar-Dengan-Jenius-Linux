@@ -98,3 +98,11 @@ Seluruh **modern CPU** adalah **Microprocessor** yang berarti mereka tersimpan d
 
 **Processor** adalah sebuah otak dari komputer yang mengendalikan operasi berbagai komponen dalam sistem komputer. Sebuah **CPU** membutuhkan dua hal yaitu program atau aplikasi dan data. 
 
+#### Arithmetic & Logic Unit (ALU)
+
+Fungsi dari **ALU** adalah untuk melakukan kalkulasi seperti penjumlahan, pengurangan, perkalian dan pembagian. 
+
+**ALU** memiliki mekanisme untuk membuat keputusan yang dapat membuat komputer misal, membandingkan dua buah data dalam **memori unit** apakah data tersebut setara (**equal**) atau tidak. 
+
+Kini ALU (**Arithmetic and Logic Unit**) dikembangkan sebagai **next logical unit** untuk **CPU**.
+
