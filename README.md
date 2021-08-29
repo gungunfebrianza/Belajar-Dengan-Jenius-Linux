@@ -89,23 +89,31 @@
      - [List Subdirectory](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#list-subdirectory)
      - [Command History](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#command-history)
 
-6. Linux Editor
-
-   - Nano Editor
-     - Create Text
-     - Save Text
-     - Open Text
-     - Replace Text
-   - Vi Editor
-     - Insert Mode
-     - Command Mode
-   - View Mode
-     - cat Command
-     - tac Command
-     - more Command
-     - less Command
-     - head Command
-     - tail Command
+6. [Linux Text Editor](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#linux-text-editor)
+   - [Nano Editor](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#nano-editor)
+     - [Create Text](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#create-text)
+     - [Save Text](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#save-text)
+     - [Open Text](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#open-text)
+     - [Replace Text](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#replace-text)
+   - [Vi Editor](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#vi-editor)
+     - [Insert Mode](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#insert-mode)
+     - [Command Mode](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#command-mode)
+       - [Copy & Paste](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#copy--paste)
+       - [Undo](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#undo)
+       - [Copy Words](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#copy-words)
+       - [Delete](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#delete)
+       - [Search](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#search)
+       - [Search & Replace](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#search--replace)
+       - [Jump](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#jump)
+       - [Save](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#save)
+       - [Exit](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#exit)
+   - [View Mode](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#view-mode)
+     - [cat Command](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#cat-command)
+     - [tac Command](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#tac-command)
+     - [more Command](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#more-command)
+     - [less Command](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#less-command)
+     - [head Command](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#head-command)
+     - [tail Command](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Editor.md#tail-command)
 
 7. File & Filesystem
 
