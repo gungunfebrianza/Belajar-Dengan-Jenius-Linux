@@ -36,6 +36,10 @@ Namun kini kita sudah memasuki era teknologi blockchain sehingga menurut **Gun G
 
   Program yang tertanam dalam sistem komputer terdesentralisasi, program bersifat transparan dan deterministik.
 
+------
+
+
+
 ## Computation
 
 Terdapat dua jenis komputasi yaitu : 
@@ -43,6 +47,10 @@ Terdapat dua jenis komputasi yaitu :
 1. Komputasi bisa berupa *numeric computation* seperti memecahkan sesuatu dengan model matematis seperti pada *system of equation* (sistem persamaan) 
 
 2. Dan *symbolic computation* seperti melakukan pencarian pada sebuah teks, memanipulasi teks, gambar dan vidio.
+
+---
+
+
 
 ## Computer System
 
@@ -52,17 +60,29 @@ Komputer terdiri dari sekumpulan **hardware** dan **software**, pada **hardware*
 
 Terdiri dari sekumpulan **input device** untuk memproduksi informasi yaitu **keyboard**, **touchscreen**, **webcam**, **microphone**, **barcode scanner** dan **mouse devices.**
 
+---------
+
+
+
 ### Ouput Unit
 
 Terdiri dari sekumpulan **output device** untuk menampilkan informasi yaitu **screen monitor**, **speaker**, **printer** hingga ke **oculus rift**. 
 
 <img src="../assets/OculusRift.png" style="zoom:50%;" />
 
+-------
+
+
+
 ### Memory Unit
 
-*Memory unit* seringkali disebut **memory**, **primary memory** atau **RAM (Random Access Memory)**. Informasi yang tersimpan dalam **memory unit** bersifat **volatile**, artinya informasi akan hilang jika komputer dimatikan. 
+**Memory unit** seringkali disebut **memory**, **primary memory** atau **RAM (Random Access Memory)**. Informasi yang tersimpan dalam **memory unit** bersifat **volatile**, artinya informasi akan hilang jika komputer dimatikan. 
 
 **Memory unit** menjadi tempat untuk mempertahankan informasi setelah melalui **input unit**, sehingga langsung tersedia untuk diproses oleh **processor** jika dibutuhkan untuk memproduksi hasil pada **Ouput Unit**.
+
+----
+
+
 
 #### Memory Hierarchy
 
@@ -70,25 +90,41 @@ Ada berbagai jenis **memory unit** yang disusun berdasarkan **memory hierarchy**
 
 <img src="../assets/Memory-Hierarchy.png" style="zoom:90%;" />
 
-Di bawah ini adalah waktu akses dan kapasitas tipikal untuk setiap memory dalam dalam hirarkinya :
+Di bawah ini adalah waktu akses dan kapasitas tipikal untuk setiap **memory** dalam dalam hirarkinya :
 
 <img src="../assets/Memory-Hierarchy2.png" style="zoom:90%;" />
 
+-------
+
+
+
 #### Register
 
-Urutan memory paling cepat tentu dipegang oleh register yang letaknya berada di dalam internal sebuah CPU. Di buat dengan material yang sama dengan CPU, didesain secepat CPU sehingga tidak ada delay sama sekali untuk waktu akses. 
+Urutan **memory** paling cepat tentu dipegang oleh **register** yang letaknya berada di dalam internal sebuah **CPU**. Di buat dengan material yang sama dengan **CPU**, didesain secepat **CPU** sehingga tidak ada delay sama sekali untuk waktu akses. 
 
-Hanya saja kapasitasnya terbatas baik untuk 32-64 bit CPU terdapat kapasitas kurang dari 1KB.
+Hanya saja kapasitasnya terbatas baik untuk **32-64 bit CPU** terdapat kapasitas kurang dari **1KB**.
+
+---------
+
+
 
 #### Cache Memory
 
-Cache memory di control secara penuh oleh hardware, main memory dibagi menjadi beberapa baris cache (Cache Lines) dengan ukuran typical 64 bytes. 
+**Cache memory** di control secara penuh oleh **hardware**, **main memory** dibagi menjadi beberapa baris **cache** (**Cache Lines**) dengan ukuran typical **64 bytes**. 
 
-Dimulai dari address 0 sampai 63 pada baris cache 0, kemudian address 64-127 pada baris cache 1 dan seterusnya.
+Dimulai dari address 0 sampai 63 pada baris **cache** 0, kemudian address 64-127 pada baris **cache** 1 dan seterusnya.
+
+-----
+
+
 
 ### Central Processing Unit (CPU)
 
-*CPU* (**Central Processing Unit**) adalah istilah yang diberikan jika hanya terdapat 1 processor yang dimiliki oleh suatu komputer. 
+*CPU* (**Central Processing Unit**) adalah istilah yang diberikan jika hanya terdapat 1 **processor** yang dimiliki oleh suatu komputer. 
+
+--------
+
+
 
 #### Processor
 
@@ -98,6 +134,10 @@ Seluruh **modern CPU** adalah **Microprocessor** yang berarti mereka tersimpan d
 
 **Processor** adalah sebuah otak dari komputer yang mengendalikan operasi berbagai komponen dalam sistem komputer. Sebuah **CPU** membutuhkan dua hal yaitu program atau aplikasi dan data. 
 
+--------
+
+
+
 #### Arithmetic & Logic Unit (ALU)
 
 Fungsi dari **ALU** adalah untuk melakukan kalkulasi seperti penjumlahan, pengurangan, perkalian dan pembagian. 
@@ -105,6 +145,10 @@ Fungsi dari **ALU** adalah untuk melakukan kalkulasi seperti penjumlahan, pengur
 **ALU** memiliki mekanisme untuk membuat keputusan yang dapat membuat komputer misal, membandingkan dua buah data dalam **memori unit** apakah data tersebut setara (**equal**) atau tidak. 
 
 Kini ALU (**Arithmetic and Logic Unit**) dikembangkan sebagai **next logical unit** untuk **CPU**.
+
+------
+
+
 
 #### Von Neumann Architecture
 
@@ -142,6 +186,10 @@ Menyimpan instruksi yang saat ini telah di **decode** dan di eksekusi.
 
 Menyimpan data yang telah diproses, hasil dari sebuah komputasi. 
 
+----------
+
+
+
 #### CPU Register
 
 Fungsi dasar **CPU** adalah melakukan **fetch**, **decode**, dan **execute** setiap instruksi bahasa mesin yang berada di dalam **Read-only Memory (ROM)** ataupun **Random Access Memory (RAM)**.
@@ -154,6 +202,10 @@ Fungsi dasar **CPU** adalah melakukan **fetch**, **decode**, dan **execute** set
 2. Instruksi bahasa mesin saat ini yang sedang di **decode**.
 3. Hasil komputasi.
 
+--------
+
+
+
 #### Instruction Set Architecture (ISA)
 
 Sebuah **CPU** memiliki kemampuan untuk memahami perintah yang disebut dengan **machine instruction** dan setiap **CPU** memiliki **instruction set architecture (ISA)** yang berbeda-beda. 
@@ -162,17 +214,29 @@ Program yang didesain untuk **x86 Processor** tidak dapat dieksekusi pada **ARM 
 
 **Instruction Set Architecture** adalah spesifikasi formal sebuah **CPU**, bagaimana sebuah **CPU** berinteraksi dengan **memory**, dan kapabilitas **I/O**. 
 
+-----------
+
+
+
 #### Moore's Laws
 
 Berdasarkan **Moore’s Law** setiap 18 bulan sekali total **transistor** dalam **Central Processing Unit (CPU)** meningkat dua kali lipat. **Central Processing Unit (CPU)** mampu menampung lebih banyak **transistor** dan ukuranya semakin kecil.
 
 **Gordon Moore** adalah seorang **Intel Cofounder** yang telah melakukan observasi **Moore’s Law**.
 
+------
+
+
+
 #### Multi-core Processor
 
 Kebanyakan komputer hari ini telah memiliki lebih dari satu **CPU** sehingga dapat melakukan banyak sekali operasi secara simultan. Sebuah **Multi-core processor** memiliki lebih dari satu **processor** dalam satu **IC Chip** tunggal. 
 
 Sebagai contoh **dual-core processor** artinya terdapat dua ***processor\*** dalam 1 **IC Chip** dan **quad-core** artinya terdapat 4 **processor** dalam **1 IC Chip.** Beberapa **processors** seperti **Intel Xeon Phi** dan **Tilera TilePro** memiliki lebih dari **60 cores** dalam **1 IC Chip**.
+
+----
+
+
 
 #### Multi-core Programming
 
@@ -193,4 +257,24 @@ Di bawah ini adalah opini penulis, ada beberapa faktor kenapa **multi-core progr
 7. Menambah jumlah **cache** juga pada akhirnya akan menemukan batasan, **the bigger the cache, the slower it gets**.
 8. Dari permasalahan di atas, jelas kita tidak bisa lagi mengandalkan inovasi peningkatan **hardware** melainkan bagaimana cara membangun **software development** yang efisien.
 9. Berdasarkan keadaan **status quo** industri **chip** saat ini, para **software engineer** harus memanfaatkan **multicore processor** dengan konsep **concurrency** untuk memaksimalkan kapabilitas **hardware**.
+
+-----
+
+
+
+### Graphic Processing Unit (GPU)
+
+**GPU** adalah sebuah **processor** yang dapat memiliki ribuan **cores** kecil. **GPU** sangat efektif untuk melakukan komputasi skala kecil dengan model eksekusi **parallel**, seperti melakukan **rendering** sebuah **polygon** dalam aplikasi **graphic**.
+
+**GPU** tidak efektif untuk pekerjaan yang berbasis **serial task**. 
+
+---
+
+
+
+### Secondary Storage Unit
+
+Sebuah data atau program yang sudah tidak lagi aktif digunakan biasanya akan atau dapat disimpan kedalam **storage devices** seperti **hard drive**, sampai data tersebut dibutuhkan kembali. 
+
+Informasi yang tersimpan di dalam **secondary storage device** bersifat persisten. Informasi tetap terjaga meskipun komputer dimatikan. Informasi yang dapat disimpan dalam **hard drives** dalam **dekstop** komputer bisa sangat besar melebihi 16 **Terabyte.** 
 
