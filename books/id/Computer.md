@@ -38,4 +38,10 @@ Namun kini kita sudah memasuki era teknologi blockchain sehingga menurut **Gun G
 
 ## Computation
 
+Terdapat dua jenis komputasi yaitu : 
+
+1. Komputasi bisa berupa *numeric computation* seperti memecahkan sesuatu dengan model matematis seperti pada *system of equation* (sistem persamaan) 
+
+2. Dan *symbolic computation* seperti melakukan pencarian pada sebuah teks, memanipulasi teks, gambar dan vidio.
+
 ## Computer System
