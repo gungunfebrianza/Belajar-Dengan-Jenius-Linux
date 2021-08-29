@@ -85,3 +85,16 @@ Hanya saja kapasitasnya terbatas baik untuk 32-64 bit CPU terdapat kapasitas kur
 Cache memory di control secara penuh oleh hardware, main memory dibagi menjadi beberapa baris cache (Cache Lines) dengan ukuran typical 64 bytes. 
 
 Dimulai dari address 0 sampai 63 pada baris cache 0, kemudian address 64-127 pada baris cache 1 dan seterusnya.
+
+### Central Processing Unit (CPU)
+
+*CPU* (**Central Processing Unit**) adalah istilah yang diberikan jika hanya terdapat 1 processor yang dimiliki oleh suatu komputer. 
+
+#### Processor
+
+Industri komputer menggunakan istilah terminologi **Central Processing Unit** pada awal tahun 1960, namun secara tradisional terminologi **CPU** mengacu pada sebutan untuk **processor**. 
+
+Seluruh **modern CPU** adalah **Microprocessor** yang berarti mereka tersimpan di dalam sebuah chip tunggal **Integrated Circuit.** 
+
+**Processor** adalah sebuah otak dari komputer yang mengendalikan operasi berbagai komponen dalam sistem komputer. Sebuah **CPU** membutuhkan dua hal yaitu program atau aplikasi dan data. 
+
