@@ -127,3 +127,54 @@ Untuk membuka sebuah **file** menggunakan vi editor eksekusi perintah di bawah i
 
 Di bawah ini adalah tampilan **command-line editor** menggunakan **vi** :
 
+<img src="../assets/Editor-Vi.png" style="zoom:90%;" />
+
+Terdapat dua mode yang harus anda ketahui saat menggunakan **vi editor** yaitu :
+
+<img src="../assets/Editor-Vi2.png" style="zoom:90%;" />
+
+Secara **default** saat anda menjalankan **vi** anda sedang berada dalam **Command Mode**, pada **command mode** anda dapat melakukan aktivitas seperti **copy**, **paste**, **delete**, **search**, **replace** dan sebagainya.
+
+### Insert Mode
+
+Pada Insert Mode kita dapat menyisipkan teks kedalam file, untuk memasuki insert mode terdapat beberapa keys yang harus kita ketahui. Sekumpulan huruf yang akan kita gunakan untuk memanipulasi teks dalam vi editor.
+
+Jika anda ingin menambahkan garis baru di baris terakhir, gunakan arrow down pada keyboard seperti gambar di bawah ini :
+
+<img src="../assets/Editor-Vi3.png" style="zoom:90%;" />
+
+Kemudian tekan huruf o kecil, kemudian tulis kalimat semangat! atau apapun itu..
+
+| Vi Insert Key | Penjelasan                                                 |
+| ------------- | ---------------------------------------------------------- |
+| o             | Menambahkan garis baru (**new line**) di baris selanjutnya |
+| O             | Menambahkan garis baru (**new line**) di baris sebelumnya  |
+
+<img src="../assets/Editor-Vi4.png" style="zoom:90%;" />
+
+Selanjutnya tekan tombol **ESC** jika ingin kembali ke **Command Mode**.
+
+<img src="../assets/Editor-Vi5.png" style="zoom:90%;" />
+
+Jika anda ingin menambahkan teks sebelum **cursor** tepatnya sebelum tanda seru, gunakan huruf i kecil.
+
+| Vi Insert Key | Penjelasan                                      |
+| ------------- | ----------------------------------------------- |
+| i             | Menambahkan teks sebelum posisi cursor saat ini |
+| I             | Menambahkan teks di awal baris cursor saat ini  |
+
+Tambahkan kalimat Gun! Atau nama anda sendiri sebagai latihan..
+
+<img src="../assets/Editor-Vi6.png" style="zoom:90%;" />
+
+Jika sudah kembali ke **Command Mode** dengan menekan tombol **ESC**.
+
+Kebalikan dari i dan I adalah a dan A
+
+| Vi Insert Key | Penjelasan                                          |
+| ------------- | --------------------------------------------------- |
+| a             | Menambahkan teks setelah posisi **cursor** saat ini |
+| A             | Menambahkan teks di akhir baris **cursor** saat ini |
+
+Silahkan anda coba untuk berlatih menggunakan **vi editor**.
+
