@@ -265,8 +265,6 @@ Untuk melakukan pencarian dan **replace** eksekusi perintah di bawah ini :
 | ----------------- | -------------------------------------------------- |
 | :%s/gun/febrianza | Mencari kata gun dan mengubahnya menjadi febrianza |
 
------
-
 Kita akan mencoba mengubah kata gun menjadi febrianza :
 
 <img src="../assets/Editor-Vi7.png" style="zoom:90%;" />
@@ -274,6 +272,10 @@ Kita akan mencoba mengubah kata gun menjadi febrianza :
 Di bawah ini adalah hasil dari **Search & Replace** :
 
 <img src="../assets/Editor-Vi8.png" style="zoom:90%;" />
+
+-------
+
+
 
 **Jump**
 
@@ -299,6 +301,29 @@ Untuk loncat ke baris terakhir teks tekan huruf G (kapital) dan untuk loncat ke 
 | G              | Kursor menuju baris terakhir teks. |
 | gg             | Kursor menuju baris awal teks.     |
 
+-----
+
+
+
 #### **Save**
 
 Untuk menyimpan **file** perintahnya sebagai berikut : 
+
+| Vi COmmand Key | Penjelasan                                       |
+| -------------- | ------------------------------------------------ |
+| :w             | Simpan **file** tanpa keluar dari **vi editor**. |
+| :wq            | Simpan **file** lalu keluar dari **vi editor**.  |
+
+----
+
+
+
+#### **Exit**
+
+Untuk keluar dari **vi editor** perintahnya sebagai berikut : 
+
+| Vi COmmand Key | Penjelasan                                                   |
+| -------------- | ------------------------------------------------------------ |
+| :q             | Keluar dari **vi editor** tanpa menyimpan perubahan.         |
+| :q!            | Keluar dari **vi editor** tanpa menyimpan perubahan. (Force Mode) |
+
