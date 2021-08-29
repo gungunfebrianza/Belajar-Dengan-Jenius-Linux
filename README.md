@@ -31,15 +31,14 @@
      - [Graphic Processing Unit (GPU)](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#graphic-processing-unit-gpu)
      - [Secondary Storage Unit](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Computer.md#secondary-storage-unit)
 
-2. Operating System
-
-   - Processor Management
-   - Memory Management
-   - Input or Output (I/O) Management
-   - Application Management
-   - Security Management
-   - OS Classification
-
+2. [Apa itu Operating System?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Operating%20System.md#apa-itu-os-operating-system-)
+   - [Processor Management](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Operating%20System.md#processor-management)
+   - [Memory Management](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Operating%20System.md#memory-management)
+   - [Input or Output (I/O) Management](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Operating%20System.md#input--output-io-management)
+   - [Application Management](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Operating%20System.md#application-management)
+   - [Security Management](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Operating%20System.md#security-management)
+   - [OS Classification](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Operating%20System.md#os-classification)
+   
 3. [Linux Operating System](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-linux-)
 
 4. [Apa itu Linux?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-linux-)
@@ -67,8 +66,6 @@
    - [Apa itu Hypervisor?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Virtual%20Machine.md#apa-itu-hypervisor-)
    - [Apa itu Virtualization?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Virtual%20Machine.md#apa-itu-virtualization)
      - [Multiple Execution Environment](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Virtual%20Machine.md#multiple-execution-environment)
-
-   
 
 5. [Linux Command Line](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux%20Command%20Line.md#linux-command-line)
 
