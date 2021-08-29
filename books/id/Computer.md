@@ -168,3 +168,9 @@ Berdasarkan **Moore’s Law** setiap 18 bulan sekali total **transistor** dalam 
 
 **Gordon Moore** adalah seorang **Intel Cofounder** yang telah melakukan observasi **Moore’s Law**.
 
+#### Multi-core Processor
+
+Kebanyakan komputer hari ini telah memiliki lebih dari satu **CPU** sehingga dapat melakukan banyak sekali operasi secara simultan. Sebuah **Multi-core processor** memiliki lebih dari satu **processor** dalam satu **IC Chip** tunggal. 
+
+Sebagai contoh **dual-core processor** artinya terdapat dua ***processor\*** dalam 1 **IC Chip** dan **quad-core** artinya terdapat 4 **processor** dalam **1 IC Chip.** Beberapa **processors** seperti **Intel Xeon Phi** dan **Tilera TilePro** memiliki lebih dari **60 cores** dalam **1 IC Chip**.
+
