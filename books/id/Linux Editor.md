@@ -352,3 +352,16 @@ Kita juga bisa membaca beberapa **file** sekaligus menggunakan perintah (**Comma
 ### tac Command 
 
 Perintah (**Command**) **tac** sering kali digunakan untuk membaca konten **file** secara terbalik, perhatikan **output** dari perintah ini :
+
+<img src="../assets/Command-tac.png" style="zoom:90%;" />
+
+Kita juga bisa membaca beberapa **file** sekaligus menggunakan perintah (**Command**) **tac** dengan cara menambahkannya sebagai **argument** :
+
+```bash
+~$ tac maudy.txt file1.txt file2.txt n.txt
+```
+
+### more Command 
+
+Perintah (**Command**) **more** digunakan untuk membaca konten **file** yang ukuran kontennya besar, tekan enter untuk membaca konten dan meningkatkan progres membaca :
+
