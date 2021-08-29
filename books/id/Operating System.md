@@ -65,6 +65,16 @@ Main **memory** digunakan untuk menyimpan data sebuah program yang sedang diekse
 
 **Memory manager** mengatur **address space** untuk sebuah **process**, setiap **process** dapat memiliki panjang **address space** yang berbeda-beda. 
 
+Pada **32 bit processor** kemampuan pengolahan untuk berinteraksi dengan **RAM** terbatas sampai dengan **4GB (2^32 bytes)**, sedangkan pada **64 bit processor** kemampuan pengolahan untuk berinteraksi dengan **RAM** bisa lebih dari 4GB.
+
+Permasalahan dalam dunia **memory** adalah ketika panjang **address space** yang dibutuhkan untuk sekumpulan **process** dibutuhkan melebihi kapasitas **main memory**. Solusinya adalah tehnik **virtual memory**.
+
+**Management Memory** dilakukan untuk memastikan sekumpulan program dapat berjalan dalam satu waktu. Salah satu metode **memory management** disebut dengan **paging**.
+
+Sebuah **memory** dapat direcah menjadi sekumpulan **block** dengan ukuran **fixed** yang disebut dengan **page**.
+
+Pada **Modern Operating System** ukuran dari **memory pages** sebesar 4 **kilobytes (KB)**. Ketika suatu program berjalan, maka **memory** yang dibutuhkan untuk menjalankan program tersebut akan dibuat.
+
 -----
 
 
