@@ -106,3 +106,39 @@ Fungsi dari **ALU** adalah untuk melakukan kalkulasi seperti penjumlahan, pengur
 
 Kini ALU (**Arithmetic and Logic Unit**) dikembangkan sebagai **next logical unit** untuk **CPU**.
 
+#### Von Neumann Architecture
+
+Desain operasional dasar sebuah sistem komputer disebut dengan **architecture**. Seluruh arsitektur komputer yang ada saat ini tidak lepas dari seorang pioner komputer bernama **John von Neumann**. 
+
+Dalam sebuah sistem *Von Neumann* terdapat tiga komponen utama yaitu **Central Processing Unit** (**CPU**), **physical memory**, dan **input** atau **output** (IO). **Central Processing Unit** (**CPU**) akan menerima data dari **memory** dan **input**. 
+
+Elemen kunci dari **Von Neumann Architecture (VNA)** adalah :
+
+1. Data & Instruksi disimpan dalam bilangan biner (**binary**).
+2. Data & Instruksi disimpan dalam main **memory**.
+3. Instruksi diambil (**fetched**) dari **memory** satu persatu dalam satu waktu secara berurutan.
+4. **Processor** melakukan **decode** pada instruksi dan mengeksekusinya sebelum mengambil instruksi selanjutnya.
+5. Aktivitas ini terus dilakukan sampai tidak ada lagi instruksi yang tersedia.
+
+Dalam **Von Neumann Architecture (VNA)** dalam sebuah **processor** terdapat 5 spesial **register** :
+
+**1.**  **Program Counter (PC)**
+
+Menyimpan **memory address** dari instruksi selanjutnya yang akan diambil dari **main memory**.
+
+**2.**  **Memory Address Register (MAR)**
+
+Menyimpan **memory address** dari instruksi saat ini yang sedang dieksekusi. 
+
+**3.**  **Memory Buffer Register (MBR)**
+
+Menyimpan data yang akan ditransfer menuju **main memory**.
+
+**4.**  **Current Instruction Register (CIR)**
+
+Menyimpan instruksi yang saat ini telah di **decode** dan di eksekusi.
+
+**5.**  **Accumulator (ACC)**
+
+Menyimpan data yang telah diproses, hasil dari sebuah komputasi. 
+
