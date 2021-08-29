@@ -44,3 +44,12 @@ Setiap sistem operasi juga menyediakan **interface** yang dapat kita gunakan unt
 
 Selanjutnya sistem operasi menyediakan 5 **managements** utama diantaranya adalah :
 
+### Processor Management
+
+Pada sistem operasi kita dapat melakukan **multitasking** yaitu mengeksekusi lebih dari satu program sekaligus (simultan). Sebagai contoh kita dapat membuka program untuk mengelola dokumen, melakukan **streaming** musik dan program lainnya.
+
+**Multitasking** dapat dilakukan pada :
+
+1. Modern **Operating System**
+2. Sistem komputer yang memiliki cukup memori untuk menyimpan data pada **primary memory (RAM)**.
+
