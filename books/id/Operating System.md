@@ -53,3 +53,19 @@ Pada sistem operasi kita dapat melakukan **multitasking** yaitu mengeksekusi leb
 1. Modern **Operating System**
 2. Sistem komputer yang memiliki cukup memori untuk menyimpan data pada **primary memory (RAM)**.
 
+------
+
+
+
+### Memory Management
+
+Sistem operasi memiliki sebuah program **memory manager** yang bertugas melacak **memory** yang sedang digunakan, memberikan alokasi **memory** untuk sebuah **process** dan melakukan dealokasi **memory** saat sebuah **process** selesai digunakan.
+
+Main **memory** digunakan untuk menyimpan data sebuah program yang sedang dieksekusi. Program yang sedang dieksekusi selanjutnya disebut dengan **process**. Sistem operasi modern dapat mengeksekusi lebih dari satu program dalam waktu yang sama.
+
+**Memory manager** mengatur **address space** untuk sebuah **process**, setiap **process** dapat memiliki panjang **address space** yang berbeda-beda. 
+
+-----
+
+
+
