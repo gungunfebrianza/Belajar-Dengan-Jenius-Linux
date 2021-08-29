@@ -29,3 +29,13 @@ Namun jika anda menggunakan **Ubuntu Linux** pada layanan **cloud** seperti **Am
 ## Nano Editor
 
 **Nano editor** adalah **editor** yang sangat cocok untuk pemula.
+
+### Create Text
+
+Untuk menggunakan nano editor eksekusi perintah di bawah ini :
+
+```bash
+~$ nano
+```
+
+Selanjutnya silahkan ketik beberapa kalimat :
