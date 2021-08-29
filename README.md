@@ -58,7 +58,7 @@
      - [POSIX Standard](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#posix-standard)
      - [MINIX](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#minix)
    - [Apa itu GNU?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#apa-itu-gnu)
-     - [GNU/Linux System](GNU/Linux System)
+     - [GNU/Linux System](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#gnulinux-system)
      - [Free Software](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#free-software)
      - [GNU General Public License](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#gnu-general-public-license)
      - [GCC](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux/blob/master/books/id/Linux.md#gcc)
