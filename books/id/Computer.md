@@ -55,3 +55,12 @@ Terdiri dari sekumpulan **input device** untuk memproduksi informasi yaitu **key
 ### Ouput Unit
 
 Terdiri dari sekumpulan **output device** untuk menampilkan informasi yaitu **screen monitor**, **speaker**, **printer** hingga ke **oculus rift**. 
+
+
+
+### Memory Unit
+
+*Memory unit* seringkali disebut **memory**, **primary memory** atau **RAM (Random Access Memory)**. Informasi yang tersimpan dalam **memory unit** bersifat **volatile**, artinya informasi akan hilang jika komputer dimatikan. 
+
+**Memory unit** menjadi tempat untuk mempertahankan informasi setelah melalui **input unit**, sehingga langsung tersedia untuk diproses oleh **processor** jika dibutuhkan untuk memproduksi hasil pada **Ouput Unit**.
+
