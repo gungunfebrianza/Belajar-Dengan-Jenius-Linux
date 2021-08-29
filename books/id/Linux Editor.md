@@ -337,7 +337,18 @@ Ada saatnya kita hanya ingin melihat **file** saja, **linux** menyediakan bebera
 
 <img src="../assets/FileViewing.png" style="zoom:90%;" />
 
-#### cat Command 
+### cat Command 
 
 Perintah (**Command**) **cat** sering kali digunakan untuk memeriksa **file** dengan cepat, di bawah ini kita menggunakan perintah (**Command**) **cat** untuk membaca **file** :
 
+<img src="../assets/Command-cat.png" style="zoom:90%;" />
+
+Kita juga bisa membaca beberapa **file** sekaligus menggunakan perintah (**Command**) **cat** dengan cara menambahkannya sebagai **argument** :
+
+```bash
+~$ cat maudy.txt file1.txt file2.txt n.txt
+```
+
+### tac Command 
+
+Perintah (**Command**) **tac** sering kali digunakan untuk membaca konten **file** secara terbalik, perhatikan **output** dari perintah ini :
