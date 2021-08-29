@@ -56,7 +56,7 @@ Terdiri dari sekumpulan **input device** untuk memproduksi informasi yaitu **key
 
 Terdiri dari sekumpulan **output device** untuk menampilkan informasi yaitu **screen monitor**, **speaker**, **printer** hingga ke **oculus rift**. 
 
-
+<img src="../assets/OculusRift.png" style="zoom:50%;" />
 
 ### Memory Unit
 
