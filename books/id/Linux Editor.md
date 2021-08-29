@@ -178,3 +178,23 @@ Kebalikan dari i dan I adalah a dan A
 
 Silahkan anda coba untuk berlatih menggunakan **vi editor**.
 
+-------
+
+
+
+### Command Mode
+
+#### **Copy & Paste**
+
+Selain fitur menambahkan teks semuanya ada pada **Command Mode**, kita akan mencoba aktivitas **copy & paste** menggunakan **vi editor**. 
+
+| Vi COmmand Keys | Penjelasan                                       |
+| --------------- | ------------------------------------------------ |
+| yy              | Menyalin satu baris sesuai dengan posisi kursor. |
+| 2yy             | Menyalin dua baris sejak dari posisi kursor      |
+| p               | Paste setelah posisi kursor                      |
+| P               | Paste sebelum posisi kursor (P kapital)          |
+
+#### **Undo**
+
+Untuk melakukan undo tekan tombol u.
