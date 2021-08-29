@@ -75,6 +75,20 @@ Sebuah **memory** dapat direcah menjadi sekumpulan **block** dengan ukuran **fix
 
 Pada **Modern Operating System** ukuran dari **memory pages** sebesar 4 **kilobytes (KB)**. Ketika suatu program berjalan, maka **memory** yang dibutuhkan untuk menjalankan program tersebut akan dibuat.
 
+Sistem operasi akan menentukan alokasi jumlah **pages** yang dibutuhkan untuk menjalankan program tersebut. Ketika suatu program telah selesai digunakan maka alokasi **pages** akan dibebaskan kembali agar dapat digunakan oleh program lainnya.
+
+<img src="../assets/LinuxOSMemory.png" style="zoom:87%;" />
+
+Pada ilustrasi **page** di atas program A membutuhkan 2 **page** yaitu **page** 0 dan 1 dan program B membutuhkan 3 **page** yaitu **page** 2, **page** 3 dan **page** 4. 
+
+Jika program A selesai dan kita mengeksekusi program C yang membutuhkan 3 **page** saat program B masih berjalan, maka **page** 0, **page** 1 dan **page** 6 akan digunakan oleh program C seperti pada gambar di bawah ini :
+
+<img src="../assets/LinuxOSMemory2.png" style="zoom:87%;" />
+
+Setiap **page**  yang digunakan oleh program bersifat **contiguos**, dapat berurutan atau acak. Sistem operasi akan menentukan **page**  mana yang akan digunakan dan membaca kembali data ketika dibutuhkan.
+
+
+
 -----
 
 
